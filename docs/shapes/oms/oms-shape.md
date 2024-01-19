@@ -3,7 +3,6 @@ layout: default
 title: OMS Shape
 parent: OMS
 grand_parent: Shapes
-direction: rtl
 ---
 
 # Order Management System Skeleton Shape

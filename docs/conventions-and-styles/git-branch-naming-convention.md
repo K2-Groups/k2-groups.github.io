@@ -2,7 +2,6 @@
 layout: default
 title: Git Branch Naming Convention
 parent: Conventions and styles
-direction: rtl
 ---
 
 # Git Branch Naming Convention

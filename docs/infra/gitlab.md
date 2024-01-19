@@ -2,7 +2,6 @@
 layout: default
 title: Gitlab
 parent: Infra
-direction: rtl
 ---
 
 # Gitlab

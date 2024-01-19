@@ -2,7 +2,6 @@
 layout: default
 title: Technologies
 parent: Tools
-direction: rtl
 ---
 
 # Technologies

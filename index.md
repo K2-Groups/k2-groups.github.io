@@ -4,7 +4,6 @@ title: Home
 nav_order: 1
 description: ""
 permalink: /
-direction: rtl
 ---
 
 # K2 Handbook
