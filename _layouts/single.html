@@ -84,13 +84,4 @@ layout: default
   {% elsif page.id and page.related %}
     {% include page__related.html posts=site.posts %}
   {% endif %}
-
-  <!-- Edit this page on GitHub -->
-  {% if site.github_edit_link and page.path %}
-  <p>
-    <a href="{{ site.github_repository }}/{{ site.github_edit_path }}{{ page.path }}" target="_blank">
-      Edit this page on GitHub
-    </a>
-  </p>
-{% endif %}
 </div>
