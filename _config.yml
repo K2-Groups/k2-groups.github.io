@@ -26,7 +26,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "K2 Group"
 title_separator          : "-"
-subtitle                 : "Mountain without a pick"
+subtitle                 : "A mountain without a pick"
 name                     : "K2"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
