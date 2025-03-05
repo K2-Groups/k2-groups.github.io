@@ -19,3 +19,12 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<!-- Edit this page on GitHub -->
+{% if site.github_edit_link and page.path %}
+  <div>
+    <a href="{{ site.github_repository }}/{{ site.github_edit_path }}{{ page.path }}" target="_blank">
+      Edit this page on GitHub
+    </a>
+  </div>
+{% endif %}
