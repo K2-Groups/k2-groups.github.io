@@ -3,7 +3,6 @@
 
 /* Variables */
 @import "minimal-mistakes/variables";
-@import "customVariables";
 
 /* Mixins and functions */
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
@@ -33,6 +32,7 @@
 
 /* Layout specific */
 @import "minimal-mistakes/page";
+@import "minimal-mistakes/custom-page";
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
