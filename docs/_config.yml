@@ -191,6 +191,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:path/
   recipes:
     output: true
     permalink: /:collection/:path/
