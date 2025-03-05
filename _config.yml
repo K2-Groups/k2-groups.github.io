@@ -309,11 +309,6 @@ compress_html:
   ignore:
     envs: development
 
-# Collections
-collections:
-  pages:
-    output: true
-    permalink: /:path/
 
 # Defaults
 defaults:
