@@ -14,6 +14,13 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Edit this page on GitHub
+github_edit_link: true
+github_repository: "https://github.com/K2-Groups/k2-groups.github.io"
+github_source_branch: "master"
+github_edit_path: "blob/master/"
+
+
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
