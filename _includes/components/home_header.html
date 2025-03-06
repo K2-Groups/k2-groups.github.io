@@ -1,20 +1,21 @@
-<div id="main-header2" class="home-header">
-    <header>
-        <nav>
-            <div class="navbar-wrapper">
-                <div class="navbar-logo">
-                </div>
-                <div class="navbar-left">
-                    <ul>
-                        {% for item in page.main_menus %}
-                            <li>
-                                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="navbar-right"></div>
+<header id="main-header2" class="home-header">
+    <nav>
+        <div class="navbar-wrapper">
+            <div class="navbar-logo">
+                <a href="{{ '/' | relative_url }}" class="site-title lh-tight">
+                    {% include title.html %}
+                </a>
             </div>
-        </nav>
-    </header>
-</div>
+            <div class="navbar-left">
+                <ul>
+                    {% for item in page.main_menus %}
+                        <li>
+                            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="navbar-right"></div>
+        </div>
+    </nav>
+</header>
