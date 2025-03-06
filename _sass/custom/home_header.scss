@@ -36,6 +36,11 @@
 
         li {
           padding: 0 15px;
+
+          > a {
+            color: white;
+            text-decoration: none;
+          };
         }
       }
     }
@@ -43,7 +48,7 @@
 }
 
 .home_banner {
-  height: 40vh;
+  height: 50vh;
   width: 100%;
   background-image: url("/assets/images/k2-home-page-banner.jpg");
   background-size: cover;
