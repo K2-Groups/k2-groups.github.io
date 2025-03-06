@@ -1,0 +1,11 @@
+<div id="main-header" class="home-header">
+    <header>
+        <nav>
+            <ul>
+                {% for item in page.main_menus %}
+                    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </header>
+</div>

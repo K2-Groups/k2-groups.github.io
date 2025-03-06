@@ -4,6 +4,11 @@ layout: home
 nav_order: 1
 description: ""
 permalink: /
+main_menus:
+  - title: 'About Us'
+    url: /about
+  - title: 'Services'
+    url: /services
 ---
 
 # K2 Handbook
