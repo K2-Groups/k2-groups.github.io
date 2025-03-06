@@ -3,7 +3,6 @@
 .home-header {
   width: 100%;
   height: 59px;
-  border-bottom: $border $border-color;
 
   nav {
     height: 100%;
@@ -44,9 +43,9 @@
 }
 
 .home_banner {
-  height: 30vh;
-  width: 100vw;
-  background-image: url("assets/images/k2-home-page-banner.jpg");
+  height: 40vh;
+  width: 100%;
+  background-image: url("/assets/images/k2-home-page-banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
