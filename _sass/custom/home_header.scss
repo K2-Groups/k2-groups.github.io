@@ -12,18 +12,21 @@
       display: flex;
       width: 100%;
       align-items: stretch;
+      height: 100%;
     }
 
     .navbar-logo {
-      width: 150px;
+      width: 200px;
       background-color: #61777f;
-      background-image: url("./assets/images/k2-group-logo.png");
+      background-image: url("/assets/images/k2-group-logo.png");
       background-repeat: no-repeat;
       background-size: 80%;
       background-position: center;
     }
 
     .navbar-left {
+      margin: 0 10px;
+
       > ul {
         display: flex;
         align-items: center;
@@ -33,7 +36,7 @@
         margin: 0;
 
         li {
-          padding: 0 8px;
+          padding: 0 15px;
         }
       }
     }
