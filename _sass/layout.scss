@@ -1,3 +1,5 @@
+@import "./support/variables";
+
 // The basic two column layout
 
 .side-bar {
@@ -133,6 +135,17 @@
   padding-top: $sp-3;
   padding-bottom: $sp-3;
   color: $body-heading-color;
+  background-color: $primary-color;
+
+  .navbar-logo {
+    width: 200px;
+    background-image: url(/assets/images/k2-group-logo.png);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center;
+    margin: 8px;
+    height: 60px;
+  }
 
   @include container;
 
