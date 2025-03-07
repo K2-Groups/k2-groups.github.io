@@ -126,8 +126,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: OkBayat on GitHub
-    url: https://github.com/OkBayat
+  - title: K2 Group on GitHub
+    url: https://github.com/K2-Groups
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
