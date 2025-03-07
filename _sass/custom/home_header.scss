@@ -73,10 +73,12 @@
     box-shadow: 0 8px 50px -16px hsla(260deg, 3%, 82%, 0.5);
     transition: visibility 0s, opacity .15s ease-in-out;
     padding: 24px 8px;
+    list-style: none;
 
     > li {
-      margin: 7px 16px;
+      margin: 10px 16px;
       width: 100%;
+      box-sizing: border-box;
 
       > a {
         width: 100%;
