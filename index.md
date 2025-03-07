@@ -6,7 +6,6 @@ description: ""
 permalink: /
 main_menus:
   - title: 'Company'
-    url: /company
     children:
       - title: 'Handbook'
         url: /handbook
