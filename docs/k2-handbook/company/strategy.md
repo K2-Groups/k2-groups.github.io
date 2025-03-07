@@ -4,7 +4,7 @@ title: Strategy
 parent: Company
 nav_order: 1
 description: ""
-permalink: /handbook/company/values
+permalink: /handbook/company/strategy
 ---
 
 # K2 Group Strategy
