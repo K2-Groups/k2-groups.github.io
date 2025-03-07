@@ -42,7 +42,7 @@
         padding-left: 0;
         margin: 0;
 
-        li {
+        li.menu {
           padding: 0 15px;
 
           > a {
@@ -70,19 +70,19 @@
     z-index: 1;
     border: $border $border-color;
     border-radius: $border-radius;
-    box-shadow: 0 8px 50px -16px hsla(260, 3%, 82%, 0.5);
+    box-shadow: 0 8px 50px -16px hsla(260deg, 3%, 82%, 0.5);
     transition: visibility 0s, opacity .15s ease-in-out;
     padding: 24px 8px;
 
     > li {
       margin: 0 16px;
       width: 100%;
-      color: $grey-dk-300;
-      text-decoration: none;
 
       a {
         width: 100%;
         height: 100%;
+        color: $grey-dk-300;
+        text-decoration: none;
       }
     }
   }
