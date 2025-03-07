@@ -54,3 +54,29 @@
     }
   }
 }
+
+.menu {
+  &:hover {
+    .submenu {
+      visibility: visible;
+    }
+  }
+
+  .submenu {
+    visibility: hidden;
+    position: absolute;
+    min-width: 170px;
+    background-color: $white;
+    z-index: 1;
+    border: 1px solid #d1d0d3;
+    border-radius: 4px;
+    box-shadow: 0 8px 50px -16px hsla(260, 3%, 82%, 0.5);
+    transition: visibility 0s, opacity .15s ease-in-out;
+    padding: 24px 8px;
+
+    > li {
+      margin: 0 16px;
+      width: 100%;
+    }
+  }
+}

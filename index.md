@@ -5,10 +5,13 @@ nav_order: 1
 description: ""
 permalink: /
 main_menus:
-  - title: 'About Us'
-    url: /about
-  - title: 'Services'
-    url: /services
+  - title: 'Company'
+    url: /company
+    children:
+      - title: 'Handbook'
+        url: /handbook
+      - title: 'About Us'
+        url: /about
 ---
 
 # K2 Group

@@ -6,8 +6,15 @@
                 <div class="navbar-left">
                     <ul>
                         {% for item in page.main_menus %}
-                            <li>
+                            <li class="menu">
                                 <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                                {% if item.children %}
+                                    <ul class="submenu">
+                                        {% for child in item.children %}
+                                            <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
                             </li>
                         {% endfor %}
                     </ul>
