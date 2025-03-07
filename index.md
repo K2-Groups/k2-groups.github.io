@@ -5,11 +5,24 @@ nav_order: 1
 description: ""
 permalink: /
 main_menus:
-  - title: 'Company'
+  - title: "K2 Subsidiaries"
+    url: /subsidiaries
     children:
-      - title: 'Handbook'
+      - title: "K2-Crypto"
+        url: /subsidiaries/k2-crypto
+      - title: "K2-Clearing"
+        url: /subsidiaries/k2-clearing
+      - title: "K2-Kids"
+        url: /subsidiaries/k2-Kids
+      - title: "K2-Shop"
+        url: /subsidiaries/k2-shop
+      - title: "K2-FamilyLink"
+        url: /subsidiaries/k2-family-link
+  - title: "Company"
+    children:
+      - title: "Handbook"
         url: /handbook
-      - title: 'About Us'
+      - title: "About Us"
         url: /about
 ---
 
