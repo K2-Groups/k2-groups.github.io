@@ -28,15 +28,14 @@ main_menus:
 
 # K2 Group
 
-{ “At K2 Group, by pushing the boundaries of knowledge, we create an environment where the quality of life for each person is continuously elevated.” | fs-6 }
+{ “At K2 Group, by continuously pushing the boundaries of knowledge and harnessing innovative technologies like blockchain and artificial intelligence, we create an environment that not only transforms the future of digital finance and commerce but also elevates each individual's quality of life.” | fs-6 }
 
 We are committed to creating opportunities where every member actively participates, thrives in freedom, and embraces creativity and innovation.
 
 ## Looking to the Future
-
 Our goal is to transform K2 Group into a land of endless opportunities—a place where the brightest minds collaborate to co-create a better world. We focus on attracting individuals who, alongside their scientific excellence, aspire to make the world a better place. We are not just an organization; we are a movement—a transformation driving change globally. In this world, every K2 Group member is a leader and innovator.
 
-> “At K2 Group, we believe in a new reality where every individual can make a significant impact. We are not just writing history; we are shaping the future.”
+> _“At K2 Group, we believe in a new reality where every individual can make a significant impact. We are not just writing history; we are shaping the future.”_
 >
 > — Mohammad Bayat (OkBayat)
 
