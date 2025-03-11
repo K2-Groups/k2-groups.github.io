@@ -28,7 +28,7 @@ main_menus:
 
 # K2 Group
 
-{ At K2 Group, we believe that everyone can choose to be bold enough to take responsibility for all of humanity. Everyone can choose to make their love for the world the true purpose of their lives. | fs-6 }
+{ At K2 Group, by pushing the boundaries of knowledge, we create an environment where the quality of life for each person is continuously elevated. | fs-6 }
 
 We are committed to creating opportunities where every member actively participates, thrives in freedom, and embraces creativity and innovation.
 
