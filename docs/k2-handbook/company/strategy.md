@@ -2,7 +2,7 @@
 layout: default
 title: Strategy
 parent: Company
-nav_order: 1
+nav_order: 4
 description: ""
 permalink: /handbook/company/strategy
 ---
