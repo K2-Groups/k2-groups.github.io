@@ -126,6 +126,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
+  - title: K2 Group on LinkedIn
+    url: https://linkedin.com/company/k2grouptech
   - title: K2 Group on GitHub
     url: https://github.com/K2-Groups
 
