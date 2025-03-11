@@ -4,7 +4,7 @@ title: Mission
 parent: Company
 nav_order: 2
 description: ""
-permalink: /handbook/company/values
+permalink: /handbook/company/mission
 ---
 
 # K2 Group Mission
