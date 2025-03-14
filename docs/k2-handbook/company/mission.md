@@ -13,6 +13,11 @@ permalink: /handbook/company/mission
 ## Mission
 At K2 Group, our mission is to **push the boundaries of knowledge and create an environment where everyone can take bold responsibility for humanity and improve the quality of life for all**.
 
+We fulfill our mission through the following methods:
+
+- [How K2 Implements Its Mission to Push the Boundaries of Knowledge](#how-k2-implements-its-mission-to-push-the-boundaries-of-knowledge)
+- [Creating an Environment for Bold Responsibility and Quality of Life Improvement](#creating-an-environment-for-bold-responsibility-and-quality-of-life-improvement)
+
 ### How K2 Implements Its Mission to Push the Boundaries of Knowledge
 We believe that the key to advancing knowledge lies in innovative collaboration with universities, students, and professors. To achieve our mission, we employ the following approach:
 
@@ -37,13 +42,13 @@ We believe creating an environment where individuals can boldly accept responsib
 
 We have initiated three core projects to cultivate this holistic worldview:
 
-1. **K2-Clearing**:
+1. [K2-Clearing](/subsidiaries/k2-clearing):
    This project focuses directly on leadership development, providing training and research opportunities designed around the concepts of self-help, mutual-help, and helping others. Members enhance their personal growth, learn how to support their colleagues, and actively contribute to the wider community.
 
-2. **K2-Kids**:
+2. [K2-Kids](/subsidiaries/k2-kids):
    This project educates children in the principles of collaborative leadership, embodying the concept of mutual-help. Individuals learn to support and elevate their teammates and immediate collaborators, creating collective growth and success.
 
-3. **FamilyLink**:
+3. [K2-FamilyLink](https://k2group.tech/subsidiaries/k2-family-link):
    Focused on the concept of helping others, this initiative encourages altruistic support without direct personal benefit, such as assisting orphaned children and other vulnerable groups.
 
 Together, these principles—self-help, mutual-help, and helping others—form a comprehensive worldview emphasizing collective improvement. At K2, we believe real transformation and improved quality of life can only be achieved when we work together for each other, rather than alone.
