@@ -19,23 +19,19 @@ We fulfill our mission through the following methods:
 - [Creating an Environment for Bold Responsibility and Quality of Life Improvement](#creating-an-environment-for-bold-responsibility-and-quality-of-life-improvement)
 
 ### How K2 Implements Its Mission to Push the Boundaries of Knowledge
-We believe that the key to advancing knowledge lies in innovative collaboration with universities, students, and professors. To achieve our mission, we employ the following approach:
+At K2 Group, we believe that true knowledge advancement happens when learning is grounded in real-world experience. Based on this belief, our method for pushing the boundaries of knowledge starts with transforming how individuals engage with knowledge—from early education to university and beyond into industry.
 
-Our process of collaboration with universities includes:
+We don't separate learning from doing. Instead, we define meaningful, real-world projects that act as the foundation for learning, innovation, and collaboration.
 
-1. **Defining Real-world Projects**:
-   We identify and define meaningful projects aligned with K2's goals. Collaborating closely with university professors, we propose these projects as topics for students' theses or research initiatives.
+Our approach includes:
 
-2. **Fair and Transparent Revenue Sharing**:
-   Universities, professors, and students participating in these projects share fairly and transparently in the resulting benefits and revenues, based on clear and predefined frameworks.
+1. Project-Centered Learning from Early Education to University: We work to integrate real-world projects into the core of educational journeys, beginning at school and continuing through university. Students learn by doing—developing not just knowledge, but the ability to transform that knowledge into real impact.
+2. Academic-Industry Collaboration: We create strong partnerships between K2, universities, and professors. These partnerships allow students to work on active K2 initiatives as part of their studies—blurring the lines between academic research and real-world application.
+3. Shared Ownership and Revenue Models: All contributors—students, professors, and universities—benefit fairly from the outcomes of their work through transparent ownership and revenue-sharing models.
+4. Pathways into Industry and Innovation: Successful project contributors are invited to continue their work within K2, turning their ideas into long-term contributions across our various initiatives and subsidiaries.
+5. A System for Continuous Exploration:\n We partner strategically with other institutions to build a growing ecosystem where individuals of all ages can contribute to—and benefit from—the continuous expansion of human knowledge.
 
-3. **Opportunity for Students to Join K2**:
-   After completing their projects or theses successfully, students have the opportunity to join the K2 team, continuing to professionally develop their project ideas and further advancing their work in line with K2's objectives.
-
-4. **Strategic Partnerships for Knowledge Exchange**:
-   We continuously seek strategic partnerships with universities, organizations, and industry experts to foster meaningful knowledge exchange and effectively push the boundaries of what is known.
-
-This collaborative model enables universities and students to benefit from financial, academic, and technical support provided by K2, creating tangible impacts on people's lives and the advancement of human knowledge.
+By combining real-world relevance with deep learning, we build a foundation where the boundaries of knowledge are not just studied—they’re moved.
 
 ### Creating an Environment for Bold Responsibility and Quality of Life Improvement
 We believe creating an environment where individuals can boldly accept responsibility for humanity requires establishing a new worldview. To achieve this, we have designed a competence-based structure for all K2 members, investing specifically in innovative leadership education to help each individual understand and embody these principles.
