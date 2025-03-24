@@ -11,7 +11,7 @@ permalink: /handbook/company/vision
 { Behind the Scenes of Our Innovative Approach | fs-6 }
 
 ## Vision
-Our vision lays out a clear path to transform the educational and practical experiences of university professors, students, and school-aged learners over the next 25 years.
+Our vision lays out a clear path to transform how asset management shapes the global economy and impacts society positively over the next 25 years.
 
 This comprehensive vision is transparently shared with all K2 Group members through our internal handbook.
 
