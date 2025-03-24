@@ -23,8 +23,8 @@ Our vision for the next 25 years (by 2050) is to become the world's largest asse
 ### Mid-Term Goals
 To achieve this ambitious vision, we have set the following mid-term goals:
 
+- **By 2030:** We will create a powerful context to establish over 150 startups into powerful arms of K2 Group, enabling us to effectively reach our ultimate goal.
 - **By 2040:** We will establish over 150 valuable and impactful asset management startups operating in influential, advanced countries such as the USA, Canada, China, Japan, Germany, and Iran.
-- **By 2030:** We will create a robust platform to foster growth and development, establishing over 20 successful startups within our ecosystem.
 - **By 2050:** We will become the world's largest asset management company, managing assets exceeding \$15 trillion.
 
 In alignment with our mission to create an environment encouraging bold responsibility for humanity, we will establish close partnerships and collaboration with universities, professors, and students. Our university-level objectives are as follows:
