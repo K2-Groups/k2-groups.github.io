@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Vision
-parent: K2-Fund
-grand_parent: Subsidiaries
+parent: K2-Fund Sub
 permalink: /handbook/company/subsidiaries/k2-fund/vision
 ---
 
