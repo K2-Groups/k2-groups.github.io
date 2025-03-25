@@ -2,8 +2,7 @@
 layout: default
 title: Vision
 parent: K2-Fund
-description: ""
-permalink: /subsidiaries/k2-fund/vision
+permalink: /handbook/company/subsidiaries/k2-fund/vision
 ---
 
 # K2-Fund Vision
