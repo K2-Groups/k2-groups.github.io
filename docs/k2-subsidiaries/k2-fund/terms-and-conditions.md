@@ -5,7 +5,7 @@ parent: K2-Fund
 permalink: /subsidiaries/k2-fund/terms-and-conditions
 ---
 
-# Terms and Conditions for K2-Cripto Affiliate Program
+# Terms and Conditions for K2-Fund Investment Program
 {: .no_toc }
 
 Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 mins to learn more](https://www.binance.com/en/legal/risk-warning).
