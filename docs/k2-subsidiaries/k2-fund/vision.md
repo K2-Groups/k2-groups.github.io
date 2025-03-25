@@ -24,3 +24,22 @@ By leveraging cutting-edge financial technology, data science, and decentralized
 - **By 2050:** Become one of the core drivers behind K2 Group’s goal of managing over \$15 trillion in assets.
 
 K2-Fund is not just a financial instrument—it’s a commitment to responsible, forward-thinking capital deployment that empowers entrepreneurs and protects investors.
+
+## Short term Goals
+
+### By 2026
+Launch K2-Fund in its simplest operational form, initially focusing solely on family and friends investments to refine our investment strategies, compliance frameworks, and operational details. This phase will also aim to support internal team members through investment opportunities.
+
+### By 2027
+Expand beyond the initial circle, raising and investing over $10 million from external investors.
+
+### By 2028
+Establish K2-Fund as one of the most profitable and efficient investment funds in the market.
+
+## Adapting to an Evolving Market
+As we pursue our defined mission, vision, and strategy, we also recognize the importance of adapting dynamically to an evolving market to meet emerging investor needs and opportunities. Much like Netflix, which anticipated the future of video streaming but initially started by shipping DVDs to establish its content database, we too emphasize timing and market readiness.
+
+Furthermore, our investment platform will remain open and adaptable. This means actively integrating emerging technologies and innovative financial solutions as they become available, ensuring that K2-Fund remains at the forefront of innovation in asset management.
+
+## Mitigating Concerns
+We acknowledge the concerns to achieving our goals. We document them in our Mitigating Concerns page.
