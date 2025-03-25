@@ -41,4 +41,4 @@ As we pursue our defined mission, vision, and strategy, we also recognize the im
 Furthermore, our investment platform will remain open and adaptable. This means actively integrating emerging technologies and innovative financial solutions as they become available, ensuring that K2-Fund remains at the forefront of innovation in asset management.
 
 ## Mitigating Concerns
-We acknowledge the concerns to achieving our goals. We document them in our Mitigating Concerns page.
+We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns](/handbook/company/strategy/mitigating-concerns) page.
