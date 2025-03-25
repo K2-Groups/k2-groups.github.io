@@ -1,6 +1,6 @@
 ---
 layout: default
-title: K2-Fund Sub
+title: K2 Fund
 parent: Subsidiaries
 permalink: /handbook/company/subsidiaries/k2-fund
 ---
