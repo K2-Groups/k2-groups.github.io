@@ -11,5 +11,5 @@ K2-Fund has been strategically established as a powerful arm of K2 Group, dedica
 
 During this initial stage, our investment focus is exclusively on crypto-assets. To maximize our effectiveness and accuracy in this domain, we leverage [K2-Crypto](./k2-crypto), our proprietary algorithmic trading system, designed specifically for crypto markets. This advanced technology ensures optimal investment strategies and efficient portfolio management.
 
-Our ultimate objectives remain clearly defined in alignment with the broader K2 vision, and we have established clear milestones and phased strategies to methodically realize our ambitious goals. Detailed investment guidelines and further phases of development will be elaborated in subsequent documentation.
+Our ultimate objectives remain clearly defined in alignment with the broader [K2 vision](/handbook/company/vision), and we have established clear milestones and phased strategies to methodically realize our ambitious goals. Detailed investment guidelines and further phases of development will be elaborated in subsequent documentation.
 
