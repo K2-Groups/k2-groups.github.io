@@ -17,11 +17,6 @@ Don’t invest unless you’re prepared to lose all the money you invest. This i
   {:toc}
 </details>
 ---
-# Terms and Conditions for K2-Fund Investment Program
-
-Don’t invest unless you’re prepared to lose the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 mins to learn more](https://www.binance.com/en/legal/risk-warning).
-
----
 
 ## 1. Investment Responsibility
 
