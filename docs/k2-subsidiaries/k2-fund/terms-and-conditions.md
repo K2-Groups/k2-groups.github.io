@@ -93,7 +93,7 @@ Don’t invest unless you’re prepared to lose all the money you invest. This i
 - In case of a **loss**, the investor bears the loss entirely; **we do not share in the loss**.
 - If a loss occurs, we will not take any profit in subsequent months **until the investor has recovered the loss and received a 3% return** for that period. Based on our long-term experience, such losses are rare and usually recovered over time.
 
-#### **Example (Scenario-Based):**
+#### Example (Scenario-Based)
 
 Let’s assume you invest **1,000 USDT**.
 
