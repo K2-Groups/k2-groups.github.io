@@ -15,7 +15,6 @@ As part of our commitment to transparency and accountability, this section provi
 <pre id="output">Loading data...</pre>
 
 <script>
-  // Path to the data file
   const dataUrl = '/assets/portfolio.txt';
 
   fetch(dataUrl)
