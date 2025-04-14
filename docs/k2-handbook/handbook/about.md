@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About the Handbook
-parent: K2 Handbook
+parent: Handbook
 nav_order: 2
 description: ""
 permalink: /handbook/about
