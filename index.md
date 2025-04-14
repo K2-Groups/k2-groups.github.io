@@ -10,10 +10,12 @@ main_menus:
     children:
       - title: "K2-Crypto"
         url: /subsidiaries/k2-crypto
+      - title: "K2-Fund"
+        url: /subsidiaries/k2-fund
       - title: "K2-Clearing"
         url: /subsidiaries/k2-clearing
       - title: "K2-Kids"
-        url: /subsidiaries/k2-Kids
+        url: /subsidiaries/k2-kids
       - title: "K2-Shop"
         url: /subsidiaries/k2-shop
       - title: "K2-FamilyLink"
