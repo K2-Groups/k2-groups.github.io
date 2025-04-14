@@ -2,7 +2,7 @@
 layout: default
 title: About the Handbook
 parent: Handbook
-nav_order: 2
+nav_order: 1
 description: ""
 permalink: /handbook/about
 ---
