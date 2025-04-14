@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Subdivision Page Structure
+title: Subsidiaries Page Structure
 parent: Handbook
 nav_order: 2
 description: ""
-permalink: /handbook/subdivision-page-structure
+permalink: /handbook/subsidiaries-page-structure
 ---
 
-# Subdivision Page Structure
+# Subsidiaries Page Structure
 
-## Internal Subdivision Page Structure
-This template is for documenting internal K2 subdivisions in the Handbook.
+## Internal Subsidiaries Page Structure
+This template is for documenting internal K2 Subsidiaries in the Handbook.
 
-### 1. About [Subdivision Name]
+### 1. About [Subsidiar Name]
 A short paragraph explaining what this subdivision is and why it was created. Keep it neutral—no marketing, no technical terms. Focus on its purpose and relevance inside the organization.
 
 ### 2. What We Do (Goes)
@@ -50,5 +50,5 @@ Include links to important internal pages:
 - Work Guidelines
 - Templates and Docs
 
-## External Subdivision Page Structure
-This template is for K2 subdivisions public pages.
+## External Subsidiaries Page Structure
+This template is for K2 Subsidiaries public pages.
