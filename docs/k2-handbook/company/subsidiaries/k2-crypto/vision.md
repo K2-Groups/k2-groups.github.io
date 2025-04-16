@@ -1,3 +1,10 @@
+---
+layout: default
+title: Vision
+parent: K2 Crypto
+permalink: /handbook/company/subsidiaries/k2-crypto/vision
+---
+
 # K2-Cripto Vision
 
 { Empowering the Future of Portfolio Management | fs-6 }
