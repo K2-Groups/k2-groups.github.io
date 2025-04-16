@@ -1,13 +1,12 @@
 ---
 layout: default
-title: K2 Cripto
+title: K2 Crypto
 parent: Subsidiaries
-permalink: /handbook/company/subsidiaries/k2-cripto
+permalink: /handbook/company/subsidiaries/k2-crypto
 ---
 
-# K2-Cripto
-
-K2-Cripto focuses on algorithmic trading within the cryptocurrency market. It was established to support K2's vision by providing strategic tools and automated solutions that enhance trading efficiency, accuracy, and scalability.
+# K2-Crypto
+K2-Crypto focuses on algorithmic trading within the cryptocurrency market. It was established to support K2's vision by providing strategic tools and automated solutions that enhance trading efficiency, accuracy, and scalability.
 
 ## What We Do (Goes)
 
