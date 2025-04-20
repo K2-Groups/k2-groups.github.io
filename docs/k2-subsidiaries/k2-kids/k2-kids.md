@@ -35,24 +35,20 @@ After 10 months of guidance, a once hesitant child gained confidence, now indepe
 
 We proudly share their created future, envisioning a path to **NASA**, serving **humanity**, and a lifelong journey of **learning**.
 
-{% if jekyll.environment == "development" %}
-  <style>img { width: 24%; }</style>
-{% endif %}
-
-![Course Certificate](/assets/images/Ava-A.jpeg)
-![Course Certificate](/assets/images/Ava-B.jpeg)
-![Course Certificate](/assets/images/Ava-C.jpeg)
-![Course Certificate](/assets/images/Ava-D.jpeg)
-![Course Certificate](/assets/images/Kosar-A.jpeg)
-![Course Certificate](/assets/images/Kosar-B.jpeg)
-![Course Certificate](/assets/images/Kosar-C.jpeg)
-![Course Certificate](/assets/images/Kosar-D.jpeg)
-![Course Certificate](/assets/images/MohammadHoseyn-A.jpeg)
-![Course Certificate](/assets/images/MohammadSadegh-A.jpeg)
-![Course Certificate](/assets/images/MohammadSadegh-B.jpeg)
-![Course Certificate](/assets/images/MohammadSadegh-C.jpeg)
-![Course Certificate](/assets/images/MohammadSadegh-D.jpeg)
-![Course Certificate](/assets/images/Sadra-D.jpeg)
-![Course Certificate](/assets/images/Kosar-AI.jpeg)
-![Course Certificate](/assets/images/MohammadSadegh-AI.jpeg)
-![Course Certificate](/assets/images/MohammadHoseyn-AI.jpeg)
+![Course Certificate](/assets/images/Ava-A.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Ava-B.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Ava-C.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Ava-D.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Kosar-A.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Kosar-B.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Kosar-C.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Kosar-D.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadHoseyn-A.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadSadegh-A.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadSadegh-B.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadSadegh-C.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadSadegh-D.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Sadra-D.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/Kosar-AI.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadSadegh-AI.jpeg){: style="width: 24%" }
+![Course Certificate](/assets/images/MohammadHoseyn-AI.jpeg){: style="width: 24%" }
