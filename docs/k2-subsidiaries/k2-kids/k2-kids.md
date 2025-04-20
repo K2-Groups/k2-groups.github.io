@@ -35,7 +35,9 @@ After 10 months of guidance, a once hesitant child gained confidence, now indepe
 
 We proudly share their created future, envisioning a path to **NASA**, serving **humanity**, and a lifelong journey of **learning**.
 
-<style>img { width: 24%; }</style>
+{% capture content_for_head %}
+  <style>img { width: 24%; }</style>
+{% endcapture %}
 
 ![Course Certificate](/assets/images/Ava-A.jpeg)
 ![Course Certificate](/assets/images/Ava-B.jpeg)
