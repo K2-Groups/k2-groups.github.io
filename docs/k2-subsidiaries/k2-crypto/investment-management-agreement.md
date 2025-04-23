@@ -31,7 +31,7 @@ each a "**Party**" and together the "**Parties**".
 WHEREAS:
 
 1. The Client wishes to appoint the Manager as a discretionary investment manager of the Portfolio (as defined below) and the Manager agrees to such appointment on the terms and subject to the conditions of this Agreement.
-2/ [The Client is the [sole] trustee of the occupational pension scheme known as "[name]" constituted under a trust deed and rules between [•]and [•] dated [•] (the "Scheme") and is entering into this Agreement in its capacity as trustee of the Scheme.][^1]
+2. [The Client is the [sole] trustee of the occupational pension scheme known as "[name]" constituted under a trust deed and rules between [•]and [•] dated [•] (the "Scheme") and is entering into this Agreement in its capacity as trustee of the Scheme.][^1]
 
 THE PARTIES AGREE THAT:
 
@@ -42,15 +42,13 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Authorised Person**" means a person whose name, details and signature appears in Schedule 1, as amended by the Client from time to time by giving notice to the Manager in accordance with Clause 33, and who is authorised to give Instructions on behalf of the Client;
 
-"**Business Day**" means a day on which commercial banks are generally open for business (including dealings in foreign exchange and foreign currency deposits) in London;
+"**Business Day**" means a day on which commercial banks are generally open for business (including dealings in foreign exchange and foreign currency deposits) in Québec;
 
-"**CCP**" means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer; "Cessation of Investment Management Service Date" means [5pm local time in London on the first following day that is a Business Day after the Termination Notice Date OR such time after the Termination Notice Date as may be agreed with the Client];
-
-"**Client Limit Order(s)**" means a specific instruction from the Client to the Manager to buy or sell assets at a specified price limit or better price and for a specified size;
+"**Cessation of Investment Management Service Date**" means 5:00pm local time in Québec on the first following day that is a Business Day after the Termination Notice Date, at which point the instruction to cease trading shall be issued to the system. The Client shall remain invested until the assets are fully liquidated, unless the Client expressly instructs that liquidation be executed at any available market price, or agrees to a later cessation time for trading activities;
 
 "**Confidential Information**" means all information or material communicated between the Parties, including the terms of this Agreement, provided that Confidential Information shall exclude information or material which at the time of its disclosure is, or which thereafter becomes (in each case otherwise than as a result of any act or default by the recipient), part of the public domain by publication or otherwise;
 
-"**Conflicts of Interest Policy**" means the policy of the Manager relating to the identification of conflicts of interest that arise, or may arise, when providing services and whose existence may damage the interests of clients and that specifies procedures in order to prevent or manage such conflicts as required by the FCA Rules and as amended by the Manager from time to time;
+"**Conflicts of Interest Policy**" means the policy of the Manager relating to the identification of conflicts of interest that arise, or may arise, when providing services and whose existence may damage the interests of clients and that specifies procedures in order to prevent or manage such conflicts as required by the AMF Rules and as amended by the Manager from time to time;
 
 "**Counterparty(ies)**" means any entity which effects a transaction, executes orders or passes or places orders for execution and includes brokers, dealers, market makers, executing brokers and clearing brokers (whether acting as principal or agent);
 
@@ -72,11 +70,11 @@ In this Agreement the following words and expressions shall have the following m
 
 "**FoIA**" means the Freedom of Information Act 2000;
 
-"**Force Majeure**" means any event preventing either of the Parties from performing any or all of its obligations under this Agreement which arises from or is attributable to acts, events, omissions or accidents beyond the reasonable control of the Party so prevented, including, without limitation, nationalisation, expropriation or other governmental actions; any change of law or regulation, any law, order or regulation of a governmental, supranational or regulatory body, regulation of the banking or securities industry (including changes in market rules), postal or other strikes, lock-outs or other industrial disputes (whether involving the workforce of the Party so prevented or of any other party), act of terrorism or of God, fire, flood, storm, war, riot, civil commotion, malicious damage (including to systems), failure or breakdown in communications, computer facilities or software and the failure of any relevant market, CCP, settlement system, Trade Repository, Custodian, Counterparty or any other party appointed by the Client for any reason to perform its obligations;
+"**Force Majeure**" means any event preventing either of the Parties from performing any or all of its obligations under this Agreement which arises from or is attributable to acts, events, omissions or accidents beyond the reasonable control of the Party so prevented, including, without limitation, nationalisation, expropriation or other governmental actions; any change of law or regulation, any law, order or regulation of a governmental, supranational or regulatory body, regulation of the banking or securities industry (including changes in market rules), postal or other strikes, lock-outs or other industrial disputes (whether involving the workforce of the Party so prevented or of any other party), act of terrorism or of God, fire, flood, storm, war, riot, civil commotion, malicious damage (including to systems), failure or breakdown in communications, computer facilities or software and the failure of any relevant market, settlement system, Trade Repository, Custodian, Counterparty or any other party appointed by the Client for any reason to perform its obligations;
 
-"**FCA**" means the Financial Conduct Authority of the UK, its successors or assigns;
+"**AMF**" means the Financial Conduct Authority of the UK, its successors or assigns;
 
-"**FCA Rules**" means the rules and guidance contained in the Handbook issued by the FCA; "FSMA" means the Financial Services and Markets Act 2000;
+"**AMF Rules**" means the rules and guidance contained in the Handbook issued by the AMF; "FSMA" means the Financial Services and Markets Act 2000;
 
 "**Guidelines**" means the investment policy, objectives and restrictions set out in Schedule 2;
 
@@ -101,7 +99,7 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Investment Management Service**" means the service set out in Clause 5.1 a);
 
-["**LCIA Rules**" means the London Court of International Arbitration Rules as amended from time to time;][^2]
+["**LCIA Rules**" means the Québec Court of International Arbitration Rules as amended from time to time;][^2]
 
 "**Legal Entity Identifier**" means the code made up of 20 alphanumerical digits which is used to uniquely identify every legal entity or structure, in any jurisdiction, that is party to a financial transaction;
 
@@ -109,17 +107,17 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Losses**" includes losses, damages, costs, claims, liabilities, charges, demands and expenses;
 
-"**Order Execution Policy**" means the policy of the Manager relating to the execution of orders and decisions to deal on behalf of clients as required by the FCA Rules and as amended by the Manager from time to time;
+"**Order Execution Policy**" means the policy of the Manager relating to the execution of orders and decisions to deal on behalf of clients as required by the AMF Rules and as amended by the Manager from time to time;
 
 "**Performance Commencement Date**" means the date specified as such in the Guidelines; "Personal Data" means any information relating to an identified or identifiable natural living person;
 
 "**Portfolio**" means the portfolio of assets of the Client, including uninvested cash, designated from time to time by the Client as subject to the management of the Manager pursuant to this Agreement;
 
-"**Portfolio Management**" means portfolio management within the meaning of the FCA Rules;
+"**Portfolio Management**" means portfolio management within the meaning of the AMF Rules;
 
 ["**Proceedings**" means any suit, action or proceedings relating to any dispute arising out of or in connection with this Agreement including any dispute relating to any non-contractual obligations arising out of or in connection with this Agreement;][^3]
 
-"**Regulated Market**" means a regulated market within the meaning of the FCA Rules; "Regulated Trading Venue" means a trading venue within the meaning of the FCA Rules;
+"**Regulated Market**" means a regulated market within the meaning of the AMF Rules; "Regulated Trading Venue" means a trading venue within the meaning of the AMF Rules;
 
 "**Standard of Care**" means, in relation to the Manager, the standard of care that could reasonably be expected of a professional discretionary investment manager acting in good faith and with reasonable care and skill;
 
@@ -138,7 +136,7 @@ e)	it ceases to have the necessary regulatory authorisation or permission to car
 
 "**Termination Notice Date**" means the date upon which the notice of termination given by the Client pursuant to Clause 28.4 is deemed effective in accordance with the provisions of Clause 33;
 
-["**Third Party Research Policy**" means the policy of the Manager relating to the use of third party research as required by the FCA Rules and as amended by the Manager from time to time];
+["**Third Party Research Policy**" means the policy of the Manager relating to the use of third party research as required by the AMF Rules and as amended by the Manager from time to time];
 
 "**Trigger Event**" means any change of law, in interpretation on the basis of case law accepted by HMRC, or in the practice of HMRC, in each case which results, in the Manager’s reasonable opinion, in a change in the requirement to charge VAT on the services, whether in the past or in future;
 
@@ -156,8 +154,8 @@ e)	it ceases to have the necessary regulatory authorisation or permission to car
 
 In this Agreement:
 
-- a)	any other words or phrases used which are defined in the FCA Rules shall have the same meanings in this Agreement unless the context requires otherwise;  
-- b)	references to statutory provisions, regulations, notices or the FCA Rules shall include those provisions, regulations, notices or rules as amended, extended, consolidated, substituted or re-enacted from time to time;  
+- a)	any other words or phrases used which are defined in the AMF Rules shall have the same meanings in this Agreement unless the context requires otherwise;  
+- b)	references to statutory provisions, regulations, notices or the AMF Rules shall include those provisions, regulations, notices or rules as amended, extended, consolidated, substituted or re-enacted from time to time;  
 - c)	references to legislation, acts of parliament or other statutory provisions are, for the avoidance of doubt, references to UK legislation, Acts of Parliament and statutes;
 - d)	words in headings are for information only and shall not affect the construction of this Agreement;  
 - e)	references to "person" shall be construed as including any natural or legal person;  
@@ -178,7 +176,7 @@ In this Agreement:
 - c)	in the event that the Manager, in accordance with an Instruction, undertakes transactions in the Portfolio following the Effective Date but prior to the physical settlement of assets in the Portfolio into the relevant accounts of the Client to which the Manager has access, the Client shall indemnify the Manager against any Losses that may be incurred in the event of delay or failure to complete such settlement.
 
 ## 4.	Client categorisation
-4.1.	For the purposes of the FCA Rules and based on information obtained in respect of the Client, the Manager has categorised the Client as a professional client in relation to the services provided under this Agreement. It is the Client’s sole responsibility to keep the Manager informed about any change to the Client’s circumstances which could affect the Manager’s categorisation of the Client as a professional client.
+4.1.	For the purposes of the AMF Rules and based on information obtained in respect of the Client, the Manager has categorised the Client as a professional client in relation to the services provided under this Agreement. It is the Client’s sole responsibility to keep the Manager informed about any change to the Client’s circumstances which could affect the Manager’s categorisation of the Client as a professional client.
 
 4.2.	The Client acknowledges that it may request that the Manager considers its re-categorisation as a retail client but it is not the Manager’s policy to accept requests to be treated as a retail client for any service under this Agreement.
 
@@ -211,7 +209,7 @@ For the avoidance of doubt, the Investment Management Service shall not constitu
 - d)	to give instructions to the Custodian to transfer cash or securities held by the Custodian on behalf of the Client in connection with the settlement of transactions; and
 - e)	to take any other action (including, without limitation, day-to-day decisions) which the Manager reasonably considers to be necessary, desirable or incidental to carry out the services under this Agreement.
 
-5.4.	Based on information provided by the Client, in providing the Investment Management Service, the Manager shall be responsible for assessing the suitability of investments and the Portfolio for the Client as required by the FCA Rules. The reason for assessing suitability is to enable the Manager to act in the Client’s best interest. As the Client is a professional client, the Manager is entitled to assume that the Client has the necessary level of experience and knowledge in order to understand the risks involved in the relevant transaction or in the management of the Portfolio. The Client shall be responsible for ensuring that information provided to the Manager is kept accurate, complete and up to date so as to enable the Manager to assess suitability for the Client.
+5.4.	Based on information provided by the Client, in providing the Investment Management Service, the Manager shall be responsible for assessing the suitability of investments and the Portfolio for the Client as required by the AMF Rules. The reason for assessing suitability is to enable the Manager to act in the Client’s best interest. As the Client is a professional client, the Manager is entitled to assume that the Client has the necessary level of experience and knowledge in order to understand the risks involved in the relevant transaction or in the management of the Portfolio. The Client shall be responsible for ensuring that information provided to the Manager is kept accurate, complete and up to date so as to enable the Manager to assess suitability for the Client.
 
 ## 6.	Standard of Care
 The Manager shall perform its obligations under this Agreement in accordance with the Standard of Care.
@@ -245,7 +243,7 @@ The Manager shall perform its obligations under this Agreement in accordance wit
 
 9.3.	If any Counterparty fails to deliver any necessary documents or to complete any transaction, the Manager shall take reasonable steps on behalf of the Client to rectify such failure or to obtain compensation in lieu thereof provided that such steps do not constitute Litigation in which case the provisions of Clause 26 shall apply. All resulting reasonable costs and expenses properly incurred by the Manager shall be paid by the Client.
 
-9.4.	The Manager shall not be responsible for ensuring that the Client complies with any position limit that the FCA might apply to any commodity derivatives held in the Portfolio. It is the Client’s responsibility to monitor its positions and those of other members of its group against any applicable limits and to instruct the Manager to reduce its holding in any investment as a result.
+9.4.	The Manager shall not be responsible for ensuring that the Client complies with any position limit that the AMF might apply to any commodity derivatives held in the Portfolio. It is the Client’s responsibility to monitor its positions and those of other members of its group against any applicable limits and to instruct the Manager to reduce its holding in any investment as a result.
 
 9.5.	The Client acknowledges that the Manager, when dealing on behalf of the Client with certain Counterparties, may be required to act in accordance with certain requirements, including any relevant rules and regulations of such Counterparties, and accepts any Losses that may result from the Manager so acting.
  
@@ -256,19 +254,17 @@ The Manager shall perform its obligations under this Agreement in accordance wit
 
 10.3.	The Client acknowledges that specific Instructions in relation to the execution of orders may prevent the Manager from following its Order Execution Policy.
 
-10.4.	The Client instructs the Manager not to make public Client Limit Orders in respect of shares admitted to trading on a Regulated Market or traded on a Regulated Trading Venue which are not immediately executed under prevailing market conditions.[^10]
+10.4.	The Manager may aggregate orders on behalf of the Client with those of its other clients and clients of its Affiliates. The Manager will allocate such orders on a fair and reasonable basis in accordance with the requirements of the AMF Rules. The Client acknowledges and agrees that aggregation may operate to the advantage or disadvantage of the Client.
 
-10.5.	The Manager may aggregate orders on behalf of the Client with those of its other clients and clients of its Affiliates. The Manager will allocate such orders on a fair and reasonable basis in accordance with the requirements of the FCA Rules. The Client acknowledges and agrees that aggregation may operate to the advantage or disadvantage of the Client.
+10.5.	Where a transaction is effected in breach of the Guidelines or is otherwise prohibited under this Agreement, subject to Clause 10.2, the Manager or one of its Affiliates may act as principal in executing a transaction with the Portfolio to correct the error.
 
-10.6.	Where a transaction is effected in breach of the Guidelines or is otherwise prohibited under this Agreement, subject to Clause 10.2, the Manager or one of its Affiliates may act as principal in executing a transaction with the Portfolio to correct the error.
+10.6.	The Client acknowledges that certain of its transactions may be subject to the provisions of the AMF Rules, which applies certain transaction and position reporting obligations directly on the Client in respect of the assets in the Portfolio, including, but without limitation, the procurement of a valid Legal Entity Identifier. The Client undertakes to provide in a timely fashion all such information (including, but not limited to, the Client’s Legal Entity Identifier) and documentation and to promptly take all such action as the Manager may from time to time reasonably require in relation to the transaction and position reporting obligations in the AMF Rules.
 
-10.7.	The Client acknowledges that certain of its transactions may be subject to the provisions of the FCA Rules, which applies certain transaction and position reporting obligations directly on the Client in respect of the assets in the Portfolio, including, but without limitation, the procurement of a valid Legal Entity Identifier. The Client undertakes to provide in a timely fashion all such information (including, but not limited to, the Client’s Legal Entity Identifier) and documentation and to promptly take all such action as the Manager may from time to time reasonably require in relation to the transaction and position reporting obligations in the FCA Rules.
-
-10.8.	The Client acknowledges that certain information about transactions the Manager wishes to and does enter into on the Client’s behalf may be made public and that the Manager will be required to report the details of certain transactions to the FCA, in some cases, via third parties, in accordance with applicable law.
+10.7.	The Client acknowledges that certain information about transactions the Manager wishes to and does enter into on the Client’s behalf may be made public and that the Manager will be required to report the details of certain transactions to the AMF, in some cases, via third parties, in accordance with applicable law.
 
 ## 11.	Research
-The Manager may receive research material or services in return for [direct payments by the Manager out of its own resources.] [OR] [payments from a separate research payment account controlled by the Manager in accordance with the FCA Rules. Details of any research charge as budgeted by the Manager and the frequency with which the specific research charge will be deducted from the resources of the Client over the year have been separately notified to the Client together with the Third Party Research Policy. The Client agrees to the
-research charge as budgeted and the frequency with which the specific research charge may be deducted from its resources. The Manager shall notify the Client in advance of any intended increase in its research budget. The Client acknowledges that the research charge is an amount of money owed to the Manager that will be collected only when it becomes due and payable and accordingly will not be “client money” for the purposes of the FCA Rules.][^11]
+The Manager may receive research material or services in return for [direct payments by the Manager out of its own resources.] [OR] [payments from a separate research payment account controlled by the Manager in accordance with the AMF Rules. Details of any research charge as budgeted by the Manager and the frequency with which the specific research charge will be deducted from the resources of the Client over the year have been separately notified to the Client together with the Third Party Research Policy. The Client agrees to the
+research charge as budgeted and the frequency with which the specific research charge may be deducted from its resources. The Manager shall notify the Client in advance of any intended increase in its research budget. The Client acknowledges that the research charge is an amount of money owed to the Manager that will be collected only when it becomes due and payable and accordingly will not be “client money” for the purposes of the AMF Rules.][^11]
 
 ## 12.	Fees, costs and charges
 12.1	The Client shall pay the Manager the fees as set out in Schedule 3. The fees shall accrue from the Effective Date unless the Parties agree otherwise.
@@ -299,7 +295,7 @@ research charge as budgeted and the frequency with which the specific research c
 
 12.8	Any fees for the provision of custodial services in relation to the Portfolio and any banking charges in relation to the Portfolio shall be charged separately by the Custodian or bank and shall not be included in the fees set out in Schedule 3 (unless otherwise stated in Schedule 3).
 
-12.9	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the FCA Rules to be provided in such disclosures.
+12.9	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the AMF Rules to be provided in such disclosures.
 
 ## 13.	Custody of assets
 13.1.	The Manager shall not provide custody services to the Client.
@@ -345,13 +341,13 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 ## 18.	Records, valuations, confirmations and periodic statements
 18.1.	The Manager will keep or cause to be kept records of investments, sales, disbursements and other transactions carried out by the Manager on behalf of the Client under this Agreement in accordance with applicable law.
 
-18.2.	The Manager shall provide periodic statements setting out certain details in relation to the activities undertaken and of the performance of the Portfolio during the reporting period. The periodic statement shall include all information required by the FCA Rules to be provided in such statements, including a statement of the contents and the valuation of the Portfolio, on a periodic basis which shall be [quarterly or monthly] or such other frequency permitted by applicable regulation and agreed with the Client.[^13]
+18.2.	The Manager shall provide periodic statements setting out certain details in relation to the activities undertaken and of the performance of the Portfolio during the reporting period. The periodic statement shall include all information required by the AMF Rules to be provided in such statements, including a statement of the contents and the valuation of the Portfolio, on a periodic basis which shall be [quarterly or monthly] or such other frequency permitted by applicable regulation and agreed with the Client.[^13]
 
 18.3.	The basis of all valuations will be as stated in the first periodic statement unless otherwise notified.
 
 18.4.	Without prejudice to Clause 13.4, the Manager will maintain its own records of the Portfolio and transactions relating to the Portfolio to enable it to assess at any date, without undue delay, their nature and value. The Client acknowledges that valuation levels for the assets of the Portfolio in the periodic statements provided by the Manager in respect of the Portfolio shall reflect the Manager’s good faith effort to ascertain fair market levels (including accrued income, if any) for the assets reasonably believed by the Manager to be held for the Portfolio based on pricing and valuation information believed by the Manager to be reliable.
 
-18.5.	The Manager may rely on an external data provider, Counterparty, CCP, Trade Repository or other third party to supply information or data of any kind, including derivative valuations. The Manager accepts no responsibility whatsoever (whether in contract, tort or otherwise, except to the extent that any such responsibility cannot be excluded by law) for Losses to the Client incurred as a consequence of the external data provider, Counterparty, CCP, Trade Repository or other third party supplying inaccurate information or data.
+18.5.	The Manager may rely on an external data provider, Counterparty, Trade Repository or other third party to supply information or data of any kind, including derivative valuations. The Manager accepts no responsibility whatsoever (whether in contract, tort or otherwise, except to the extent that any such responsibility cannot be excluded by law) for Losses to the Client incurred as a consequence of the external data provider, Counterparty, Trade Repository or other third party supplying inaccurate information or data.
 
 18.6.	The Client acknowledges that variations in market conditions will mean that the prices shown in periodic statements and any other reports do not necessarily reflect realisable values.
 
@@ -370,7 +366,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 - d)	may not be able to audit the onward transmission of voting instructions from the Custodian or any proxy voting agent to any other party.
 
 ## 20.	Conflicts of interest
-20.1.	The Manager and any Affiliate may effect transactions in which the Manager, any Affiliate, another client of the Manager or of an Affiliate has, directly or indirectly, a material interest or a relationship of any description with another party, which involves or may involve a potential conflict with the Manager’s duty to the Client. The Manager will ensure that such transactions are effected on terms which are not materially less favourable to the Client than if the conflict or potential conflict had not existed. Any conflicts which the Manager is not able to prevent or manage effectively shall be promptly disclosed by the Manager to the Client. Except as required by the FCA Rules, neither the Manager nor any Affiliate shall be liable to account to the Client for any profit, commission or remuneration made or received from or by reason of such transactions or any connected transactions or to disclose the same or the identity of any other client or counterparty involved in such transactions, nor will the Manager’s fees, unless otherwise provided, be abated.
+20.1.	The Manager and any Affiliate may effect transactions in which the Manager, any Affiliate, another client of the Manager or of an Affiliate has, directly or indirectly, a material interest or a relationship of any description with another party, which involves or may involve a potential conflict with the Manager’s duty to the Client. The Manager will ensure that such transactions are effected on terms which are not materially less favourable to the Client than if the conflict or potential conflict had not existed. Any conflicts which the Manager is not able to prevent or manage effectively shall be promptly disclosed by the Manager to the Client. Except as required by the AMF Rules, neither the Manager nor any Affiliate shall be liable to account to the Client for any profit, commission or remuneration made or received from or by reason of such transactions or any connected transactions or to disclose the same or the identity of any other client or counterparty involved in such transactions, nor will the Manager’s fees, unless otherwise provided, be abated.
 
 20.2.	The Conflicts of Interest Policy sets out the types of actual or potential conflicts of interest which affect the Manager’s business and provides details of how these are identified, prevented or managed. A summary of the Conflicts of Interest Policy has been separately notified to the Client. Further details of the Conflicts of Interest Policy are available to the Client on request.
 
@@ -399,7 +395,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 21.2.	The Manager represents, warrants and agrees, on the date of this Agreement and on a continuing basis that:
 
-- a)	it is authorised and regulated by the FCA in carrying out the business of managing investments and shall remain so authorised and regulated at all times during the term of this Agreement;
+- a)	it is authorised and regulated by the AMF in carrying out the business of managing investments and shall remain so authorised and regulated at all times during the term of this Agreement;
 - b)	it is duly organised and validly existing under the laws of England and Wales; and
 - c)	it has all necessary power and authority to execute, deliver and perform this Agreement.
 
@@ -417,7 +413,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 22.3	The Manager shall not be responsible for any Losses incurred after the Termination Date under this Agreement unless and to the extent that the act or omission causing such Losses can be evidenced to have occurred prior to the Termination Date under this Agreement.
 
-22.4	Nothing in this Agreement shall exclude or restrict any duty or liability which the Manager may have to the Client under FSMA or the FCA Rules [or, where relevant, the Pensions Act 1995].[^16]
+22.4	Nothing in this Agreement shall exclude or restrict any duty or liability which the Manager may have to the Client under FSMA or the AMF Rules [or, where relevant, the Pensions Act 1995].[^16]
 
 ## 23.	Indemnification
 23.1.	The Client indemnifies the Manager and any Delegate and their directors, officers and employees against any and all Losses paid, suffered or incurred by the Manager or the Delegate or their directors, officers or employees, directly or indirectly arising as a result of:
@@ -551,7 +547,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 30.5.	[For the avoidance of doubt, except as set out above, the Manager shall be responsible for providing notices and obtaining any consents in relation to any processing of Client Contacts’ Personal Data, including in relation to marketing.][^20]
 
 ## 31.	Communications and taping
-31.1.	Subject to compliance with applicable law, either Party may record telephone conversations with the other. The Manager may record or monitor telephone conversations and other communications with or by the Client (including mails, emails or documentation of client orders made at meetings). The Client agrees that the Manager may deliver copies or transcripts of such recordings to any court or competent authority. A copy of any such conversations with the Client and communications with the Client will be available on request for a period of five years (or, where requested by the FCA, for a period of up to seven years) from the date when the record is made.
+31.1.	Subject to compliance with applicable law, either Party may record telephone conversations with the other. The Manager may record or monitor telephone conversations and other communications with or by the Client (including mails, emails or documentation of client orders made at meetings). The Client agrees that the Manager may deliver copies or transcripts of such recordings to any court or competent authority. A copy of any such conversations with the Client and communications with the Client will be available on request for a period of five years (or, where requested by the AMF, for a period of up to seven years) from the date when the record is made.
 
 31.2.	The Manager will communicate with the Client [in English] and, subject to Clause 33, will communicate with the Client as considered appropriate, including through the Manager’s website, by email or otherwise. [The Client hereby consents to receiving communications and reports under this Agreement (including but not limited to valuations) electronically online via the Manager’s secure client website ([insert website link]).] The Client understands that if documents are only available online the Client will not receive a printed version. A paper copy of such communications and reports will be available to the Client upon request.
 
@@ -564,10 +560,10 @@ Any notice in respect of this Agreement may be given in any manner set forth bel
 - a)	if in writing and delivered in person or by courier, on the date it is delivered;
 - b)	if sent by registered or certified mail or equivalent, on the date that mail is delivered; and
 - c)	if sent by electronic messaging system including email, on the date that electronic message is acknowledged by the recipient,
-unless the date of delivery or that receipt, as applicable, is not a Business Day or that notice is delivered, received or acknowledged, as applicable, after 5pm local time in London on a Business Day, in which case that notice shall be deemed given and effective on the first following day that is a Business Day.
+unless the date of delivery or that receipt, as applicable, is not a Business Day or that notice is delivered, received or acknowledged, as applicable, after 5pm local time in Québec on a Business Day, in which case that notice shall be deemed given and effective on the first following day that is a Business Day.
 
 ## 34.	Complaints
-All formal complaints by the Client relating to the services provided by the Manager under this Agreement should in the first instance be made in writing to the compliance officer of the Manager. Subsequently, the Client may have a right to complain directly to the Financial Ombudsman Service. A copy of the Manager’s complaints management policy is available on request and will otherwise be provided in accordance with the FCA Rules.
+All formal complaints by the Client relating to the services provided by the Manager under this Agreement should in the first instance be made in writing to the compliance officer of the Manager. Subsequently, the Client may have a right to complain directly to the Financial Ombudsman Service. A copy of the Manager’s complaints management policy is available on request and will otherwise be provided in accordance with the AMF Rules.
 
 ## 35.	Compensation
 The Client may be entitled to compensation from the Financial Services Compensation Scheme if the Manager cannot meet its obligations. This depends on the type of business and the circumstances of the claim. Generally, a professional client will not be eligible for compensation.
@@ -619,7 +615,7 @@ This Agreement may be executed in any number of counterparts, each of which is a
 
 42.5.	The number of arbitrators shall be three.
 
-42.6.	The seat, or legal place, of arbitration shall be London.
+42.6.	The seat, or legal place, of arbitration shall be Québec.
 
 42.7.	The language to be used in the arbitral proceedings shall be English.
 
@@ -654,7 +650,6 @@ Date:
 [^7]: Managers with a multi-manager strategy may need to consider whether this position is workable.
 [^8]: Note that, although notice to the Client is not required here, the Manager retains liability.
 [^9]: For pension scheme Clients only. There are specific requirements on pension scheme trustees to invest predominately in regulated markets.
-[^10]: N/A to the extent the Manager does not accept Client orders.
 [^11]: Delete as appropriate.
 [^12]: Mandatory where the Manager uses a research payment account model.
 [^13]: Monthly” would apply where the Client has authorised a leveraged Portfolio.
