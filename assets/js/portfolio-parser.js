@@ -12,46 +12,49 @@ fetch(dataUrl)
 
 function parsePortfolioData(data) {
   const lines = data.split("\n")
-  let entriesByDate = {}
+  let currentUnitPrice = 1
+  let totalUnits = 0
+  let userUnits = {}
+  let userDeposits = {}
+  let userPayouts = {} // New object to store manual payouts (marked with -P)
+  let output = ""
 
-  // Step 1: Group lines by date
   lines.forEach((line) => {
     if (!line.trim()) return
     const parts = line.split("|")
     if (parts.length < 2) return
     const date = parts[0].trim()
-    const entry = parts[1].trim()
-    if (!entriesByDate[date]) entriesByDate[date] = []
-    entriesByDate[date].push(entry)
-  })
+    const rest = parts[1].trim()
 
-  let currentUnitPrice = 1
-  let totalUnits = 0
-  let userUnits = {}
-  let userDeposits = {}
-  let userPayouts = {}
-  let snapshots = []
+    // Handle optional -P suffix
+    let isPayout = false
+    let cleanRest = rest
+    if (rest.includes("-P")) {
+      isPayout = true
+      cleanRest = rest.replace("-P", "").trim()
+    }
 
-  const sortedDates = Object.keys(entriesByDate).sort()
+    const [namePart, amountPart] = cleanRest.split(":")
+    const name = namePart.trim()
+    const amount = parseFloat(amountPart.trim())
 
-  sortedDates.forEach((date) => {
-    const entries = entriesByDate[date]
-
-    // Process payouts and deposits first
-    entries.forEach((entry) => {
-      if (entry.toLowerCase().startsWith("total")) return
-
-      let isPayout = false
-      let cleanEntry = entry
-      if (entry.includes("-P")) {
-        isPayout = true
-        cleanEntry = entry.replace("-P", "").trim()
+    if (name.toLowerCase() === "total") {
+      if (totalUnits > 0) {
+        currentUnitPrice = amount / totalUnits
+      } else {
+        currentUnitPrice = 1
       }
 
-      const [namePart, amountPart] = cleanEntry.split(":")
-      const name = namePart.trim()
-      const amount = parseFloat(amountPart.trim())
-
+      output += `\nDate: ${date}\n`
+      for (let user in userUnits) {
+        const currentValue = userUnits[user] * currentUnitPrice
+        const baseProfit = currentValue - userDeposits[user]
+        const manualPayout = userPayouts[user] || 0
+        const finalProfit = baseProfit - manualPayout
+        output += `${user}: Value = ${currentValue.toFixed(2)}, Profit/Loss = ${finalProfit.toFixed(2)}\n`
+      }
+      output += `---------------------\n`
+    } else {
       if (!userUnits[name]) {
         userUnits[name] = 0
         userDeposits[name] = 0
@@ -59,40 +62,15 @@ function parsePortfolioData(data) {
       }
 
       if (isPayout) {
-        userPayouts[name] += Math.abs(amount)
+        userPayouts[name] += Math.abs(amount) // Track manual payouts
       } else {
         const unitsBought = amount / currentUnitPrice
         userUnits[name] += unitsBought
         userDeposits[name] += amount
         totalUnits += unitsBought
       }
-    })
-
-    // Process totals after all deposits/payouts
-    entries.forEach((entry) => {
-      if (!entry.toLowerCase().startsWith("total")) return
-
-      const [_, amountPart] = entry.split(":")
-      const amount = parseFloat(amountPart.trim())
-
-      if (totalUnits > 0) {
-        currentUnitPrice = amount / totalUnits
-      } else {
-        currentUnitPrice = 1
-      }
-
-      let snapshot = `\nDate: ${date}\n`
-      for (let user in userUnits) {
-        const currentValue = userUnits[user] * currentUnitPrice
-        const baseProfit = currentValue - userDeposits[user]
-        const manualPayout = userPayouts[user] || 0
-        const finalProfit = baseProfit - manualPayout
-        snapshot += `${user}: Value = ${currentValue.toFixed(2)}, Profit/Loss = ${finalProfit.toFixed(2)}\n`
-      }
-      snapshot += `---------------------\n`
-      snapshots.push(snapshot)
-    })
+    }
   })
 
-  document.getElementById("output").textContent = snapshots.reverse().join("")
+  document.getElementById("output").textContent = output
 }
