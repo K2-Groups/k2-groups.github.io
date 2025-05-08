@@ -16,7 +16,6 @@ function parsePortfolioData(data) {
   let totalUnits = 0
   let userUnits = {}
   let userDeposits = {}
-  let userPayouts = {} // New object to store manual payouts (marked with -P)
   let output = ""
 
   lines.forEach((line) => {
@@ -25,16 +24,7 @@ function parsePortfolioData(data) {
     if (parts.length < 2) return
     const date = parts[0].trim()
     const rest = parts[1].trim()
-
-    // Handle optional -P suffix
-    let isPayout = false
-    let cleanRest = rest
-    if (rest.includes("-P")) {
-      isPayout = true
-      cleanRest = rest.replace("-P", "").trim()
-    }
-
-    const [namePart, amountPart] = cleanRest.split(":")
+    const [namePart, amountPart] = rest.split(":")
     const name = namePart.trim()
     const amount = parseFloat(amountPart.trim())
 
@@ -48,27 +38,21 @@ function parsePortfolioData(data) {
       output += `\nDate: ${date}\n`
       for (let user in userUnits) {
         const currentValue = userUnits[user] * currentUnitPrice
-        const baseProfit = currentValue - userDeposits[user]
-        const manualPayout = userPayouts[user] || 0
-        const finalProfit = baseProfit - manualPayout
-        output += `${user}: Value = ${currentValue.toFixed(2)}, Profit/Loss = ${finalProfit.toFixed(2)}\n`
+        const profit = currentValue - userDeposits[user]
+        output += `${user}: Value = ${currentValue.toFixed(
+          2
+        )}, Profit/Loss = ${profit.toFixed(2)}\n`
       }
       output += `---------------------\n`
     } else {
       if (!userUnits[name]) {
         userUnits[name] = 0
         userDeposits[name] = 0
-        userPayouts[name] = 0
       }
-
-      if (isPayout) {
-        userPayouts[name] += Math.abs(amount) // Track manual payouts
-      } else {
-        const unitsBought = amount / currentUnitPrice
-        userUnits[name] += unitsBought
-        userDeposits[name] += amount
-        totalUnits += unitsBought
-      }
+      const unitsBought = amount / currentUnitPrice
+      userUnits[name] += unitsBought
+      userDeposits[name] += amount
+      totalUnits += unitsBought
     }
   })
 
