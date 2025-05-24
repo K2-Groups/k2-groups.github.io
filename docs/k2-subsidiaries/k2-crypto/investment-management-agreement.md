@@ -52,7 +52,7 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Counterparty(ies)**" means any entity which effects a transaction, executes orders or passes or places orders for execution and includes brokers, dealers, market makers, executing brokers and clearing brokers (whether acting as principal or agent);
 
-"**Custodian**" means the person from time to time appointed by the Client to provide custody services in relation to all or part of the Portfolio;
+"**Custodian**" means the person or entity appointed by the Client to provide custody services in relation to all or part of the Portfolio. For the avoidance of doubt, the Manager does not provide custody services, and the Client is responsible for appointing and maintaining a Custodian for their assets.
 
 "**Data Protection Laws**" means all applicable statutes and regulations in any jurisdiction pertaining to the processing of personal data, including the privacy and security of personal data;
 
@@ -206,8 +206,7 @@ For the avoidance of doubt, the Investment Management Service shall not constitu
 - a)	to select and use such Counterparties or trading venues (including, where permitted under applicable law, Affiliates of the Manager) to effect transactions on behalf of the Client;
 - b)	to give instructions for the opening of accounts in the name of the Client and the operation of such accounts;
 - c)	to negotiate, amend, execute, sign, deliver or otherwise bring into effect all such agreements, master agreements, confirmations, account opening documents, contracts, deeds, other instruments, notifications, warranties, undertakings, representations and indemnities in the name of, binding against, and on behalf of the Client;
-- d)	to give instructions to the Custodian to transfer cash or securities held by the Custodian on behalf of the Client in connection with the settlement of transactions; and
-- e)	to take any other action (including, without limitation, day-to-day decisions) which the Manager reasonably considers to be necessary, desirable or incidental to carry out the services under this Agreement.
+- d)	to take any other action (including, without limitation, day-to-day decisions) which the Manager reasonably considers to be necessary, desirable or incidental to carry out the services under this Agreement.
 
 5.4.	Based on information provided by the Client, in providing the Investment Management Service, the Manager shall be responsible for assessing the suitability of investments and the Portfolio for the Client as required by the AMF Rules. The reason for assessing suitability is to enable the Manager to act in the Client’s best interest. As the Client is a professional client, the Manager is entitled to assume that the Client has the necessary level of experience and knowledge in order to understand the risks involved in the relevant transaction or in the management of the Portfolio. The Client shall be responsible for ensuring that information provided to the Manager is kept accurate, complete and up to date so as to enable the Manager to assess suitability for the Client.
 
@@ -293,30 +292,14 @@ research charge as budgeted and the frequency with which the specific research c
 
 12.7	The Parties acknowledge and agree that the Manager’s fees are based on the current understanding of the VAT treatment of the fees. In the event of any change in the VAT treatment of the fees, both Parties reserve the right to negotiate a change in the fee basis (exclusive of VAT) to reflect the revised circumstances.
 
-12.8	Any fees for the provision of custodial services in relation to the Portfolio and any banking charges in relation to the Portfolio shall be charged separately by the Custodian or bank and shall not be included in the fees set out in Schedule 3 (unless otherwise stated in Schedule 3).
-
-12.9	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the AMF Rules to be provided in such disclosures.
+12.8	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the AMF Rules to be provided in such disclosures.
 
 ## 13.	Custody of assets
 13.1.	The Manager shall not provide custody services to the Client.
 
-13.2.	All assets forming part of the Portfolio shall be held by either the Client or the Custodian pursuant to a separate agreement. The Manager shall at no time hold any assets belonging to the Client. The Client acknowledges that it has been and will be solely responsible for the selection, appointment, monitoring and supervision of the Custodian and for any services the Custodian provides to the Client including, without limitation, cash management services, stocklending and repo services and foreign exchange services.
+13.2. All assets forming part of the Portfolio shall be held by either the Client or a Custodian appointed by the Client pursuant to a separate agreement. The Manager shall at no time hold any assets belonging to the Client. For clarity, under the current arrangement, the Portfolio assets remain in the Client’s designated exchange account (e.g., Binance), and the Client remains solely responsible for all custody-related decisions and risks.
 
-13.3.	The Client shall instruct the Custodian to:
-
-- a)	act in accordance with instructions from the Manager pursuant to this Agreement;
-- b)	provide the Manager with copies of periodic statements and access to electronic systems;
-- c)	give the Manager (and/or such person as the Manager may direct) timely notice of any voting or other rights with respect to assets forming part of the Portfolio as soon as possible upon becoming aware of any such rights;
-- d)	inform the Manager as soon as practicable of any additions or other credits and withdrawals or other debits to any account containing assets forming part of the Portfolio;
-- e)	pay the amount of any fees, costs and expenses payable under this Agreement from the Portfolio in accordance with the payment instructions notified by the Manager to the Custodian; and
-- f)	comply with the directions of the Manager under Clause 28.6(f).
-
-13.4.	For the avoidance of doubt, the Custodian shall hold the official books and records of the Portfolio and the Manager is not engaged to provide such official books and records nor to be responsible for any reconciliation of assets in relation to the Portfolio.
-
-13.5.	The Client shall not change its Custodian without giving the Manager reasonable prior written notice of its intention to do so together with the name and other relevant information which the Manager may require in respect of the new Custodian.
-
-13.6.	Where the Manager elects to exercise or procure the exercise of voting rights or other rights, it does so exclusively on the basis of the records and positions held by the Custodian and the Client acknowledges that the Manager shall be entitled to rely on the information supplied by any other person acting for
-the Custodian or appointed by the Client and shall not be required to investigate or reconcile any discrepancies between the information held by it and the information held by the Custodian.
+13.3.	For the avoidance of doubt, the official books and records of the Portfolio shall be those maintained by the Client and/or any third-party Custodian appointed by the Client. The Manager is not responsible for maintaining such official records nor for reconciling assets held within the Client’s Portfolio.
 
 ## 14.	Cash
 The Client shall remain solely responsible for the selection and use of any credit institution or other entity with which cash is deposited, unless and to the extent that the Manager shall have exercised its discretion in the selection of such credit institution or other entity.
@@ -334,9 +317,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 ## 17.	Stocklending and repos
 17.1	Unless otherwise agreed in the Guidelines, the Manager shall not undertake any stock lending, stock borrowing, repurchase or reverse repurchase arrangements in relation to assets in the Portfolio.
 
-17.2	Where the Client has entered into a securities lending programme with the Custodian or another third party, it shall procure that such Custodian or third party ensures that sufficient securities are available for the account of the Client to satisfy any settlement obligations created by such transactions entered into by the Manager for the Portfolio in accordance with the Guidelines as well as to comply with applicable law (including applicable requirements on short sales) in connection with such securities lending transactions.
-
-17.3	Where the Manager has agreed to undertake stock lending, stock borrowing, repurchase or reverse repurchase arrangements in relation to assets in the Portfolio, these will be subject to the provisions of Schedule 6 in addition to any other agreement entered into pursuant to Clause 17.1. In the event of any inconsistency between the terms of this Agreement and Schedule 6, Schedule 6 shall prevail.
+17.2	Where the Manager has agreed to undertake stock lending, stock borrowing, repurchase or reverse repurchase arrangements in relation to assets in the Portfolio, these will be subject to the provisions of Schedule 6 in addition to any other agreement entered into pursuant to Clause 17.1. In the event of any inconsistency between the terms of this Agreement and Schedule 6, Schedule 6 shall prevail.
 
 ## 18.	Records, valuations, confirmations and periodic statements
 18.1.	The Manager will keep or cause to be kept records of investments, sales, disbursements and other transactions carried out by the Manager on behalf of the Client under this Agreement in accordance with applicable law.
@@ -345,7 +326,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 18.3.	The basis of all valuations will be as stated in the first periodic statement unless otherwise notified.
 
-18.4.	Without prejudice to Clause 13.4, the Manager will maintain its own records of the Portfolio and transactions relating to the Portfolio to enable it to assess at any date, without undue delay, their nature and value. The Client acknowledges that valuation levels for the assets of the Portfolio in the periodic statements provided by the Manager in respect of the Portfolio shall reflect the Manager’s good faith effort to ascertain fair market levels (including accrued income, if any) for the assets reasonably believed by the Manager to be held for the Portfolio based on pricing and valuation information believed by the Manager to be reliable.
+18.4.	Without prejudice to Clause 13.3, the Manager will maintain its own records of the Portfolio and transactions relating to the Portfolio to enable it to assess at any date, without undue delay, their nature and value. The Client acknowledges that valuation levels for the assets of the Portfolio in the periodic statements provided by the Manager in respect of the Portfolio shall reflect the Manager’s good faith effort to ascertain fair market levels (including accrued income, if any) for the assets reasonably believed by the Manager to be held for the Portfolio based on pricing and valuation information believed by the Manager to be reliable.
 
 18.5.	The Manager may rely on an external data provider, Counterparty, Trade Repository or other third party to supply information or data of any kind, including derivative valuations. The Manager accepts no responsibility whatsoever (whether in contract, tort or otherwise, except to the extent that any such responsibility cannot be excluded by law) for Losses to the Client incurred as a consequence of the external data provider, Counterparty, Trade Repository or other third party supplying inaccurate information or data.
 
@@ -357,13 +338,6 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 ## 19.	Voting
 19.1.	Unless the Client instructs the Manager to the contrary in writing, the Manager is authorised to issue proxy voting instructions or to vote on a show of hands at a meeting in relation to any relevant assets held or that were held in the Portfolio, and to execute and bind the Client in actions (including corporate actions), waivers, consents, covenants and indemnifications related to such voting proxies.
-
-19.2.	The Client acknowledges and agrees that the Manager:
-
-- a)	may establish guidelines for the exercise of voting of proxies or other rights and may employ the services of a proxy voting service to exercise proxies in accordance with the Manager’s guidelines;
-- b)	may be precluded by regulation from exercising or procuring the exercise of any voting rights attaching to the Portfolio’s holdings of In-House Funds;
-- c)	may, in its discretion, elect not to exercise or procure the exercise of any voting or other rights and, except as may be explicitly provided by applicable law, the Manager shall not incur any liability to the Client by reason of any exercise of, or failure to exercise, any such discretion and shall not incur any liability for any failure arising from an act or omission of a person other than the Manager; and
-- d)	may not be able to audit the onward transmission of voting instructions from the Custodian or any proxy voting agent to any other party.
 
 ## 20.	Conflicts of interest
 20.1.	The Manager and any Affiliate may effect transactions in which the Manager, any Affiliate, another client of the Manager or of an Affiliate has, directly or indirectly, a material interest or a relationship of any description with another party, which involves or may involve a potential conflict with the Manager’s duty to the Client. The Manager will ensure that such transactions are effected on terms which are not materially less favourable to the Client than if the conflict or potential conflict had not existed. Any conflicts which the Manager is not able to prevent or manage effectively shall be promptly disclosed by the Manager to the Client. Except as required by the AMF Rules, neither the Manager nor any Affiliate shall be liable to account to the Client for any profit, commission or remuneration made or received from or by reason of such transactions or any connected transactions or to disclose the same or the identity of any other client or counterparty involved in such transactions, nor will the Manager’s fees, unless otherwise provided, be abated.
@@ -388,7 +362,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 - f)	it has read and understood the risk disclosures that have been separately notified to the Client by the Manager and which provide a description of the nature and risks of financial instruments including appropriate guidance on, and warnings of, the risks associated with investments in financial instruments or in respect of particular investment strategies;
 - g)	it is acting as principal with respect to the transactions contemplated under this Agreement and shall accordingly be liable as principal for all obligations under this Agreement;
 - h)	it is the sole beneficial owner of all the assets in the Portfolio (or, where it is acting as trustee, it is acting on behalf of the beneficial owner) and that the assets are free from any lien, charge or other encumbrance or security interest;
-- i)	it shall not, without the Manager’s prior written consent, dispose of, encumber or otherwise deal with any of the assets comprising the Portfolio nor permit any other person, including the Custodian, to do so;
+- i)	it shall use reasonable efforts to avoid interfering with the execution of the Investment Management Service and shall not dispose of, encumber or otherwise deal with the Portfolio in a way that would prevent the Manager from discharging its responsibilities under this Agreement;
 - j)	it shall promptly provide to the Manager, and update as required, all information or documents that are reasonably necessary for the Manager to receive (including a valid Legal Entity Identifier) with a view to the proper discharge of its functions under this Agreement or which the Manager may reasonably request for such purpose or which is required by any competent authority;
 - k)	information or documentation provided by the Client or its agents to the Manager pursuant to this Agreement is accurate, complete, up-to-date and not misleading in any respect and the Client has notified the Manager of all such information which is reasonably relevant to the performance of the Manager’s duties under this Agreement[; and
 - l)	it has read and understood the sustainable finance disclosures at Schedule 7][^15].
@@ -404,7 +378,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 ## 22.	Liability
 22.1	The Manager shall be liable to the Client for any Losses incurred by the Client only to the extent that such Losses arise under the law of contract and are the direct result of any act or omission taken or omitted by the Manager or a Delegate during the term of, and under, this Agreement which constitutes negligence, wilful default or fraud of the Manager, such Delegate or their directors, officers or employees in providing any of the services under this Agreement. Without prejudice to Clause 22.4, the Manager shall not otherwise be liable for any other Losses suffered by the Client including Losses arising from:
 
-- a)	the Manager carrying out or relying on any Instructions or on any information provided or made available to the Manager by the Client, the Custodian, any agent of the Client or any person appointed or retained by the Manager under Clause 9;
+- a)	the Manager carrying out or relying on any Instructions or on any information provided or made available to the Manager by the Client, the Custodian, any agent of the Client or any person appointed or retained by the Manager under Clause 9 including reliance on account information or trading permissions granted via APIs to third-party platforms such as cryptocurrency exchanges;
 - b)	any delays due to market conditions or changes in market conditions;
 - c)	any delayed receipt, non-receipt, loss or corruption of any information contained in any electronic communication or for any breach of confidentiality resulting from email communication or any consequential loss arising from either of the foregoing; or
 - d)	acts or omissions (including negligence, wilful default, fraud or insolvency) of any other person (including Counterparties, the Custodian and external data providers), unless otherwise specified in this Agreement.
@@ -483,7 +457,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 - c)	the performance measurement for the Portfolio shall end with effect from [the Cessation of Investment Management Service Date]/[the Termination Date]/[such date as is agreed between the Parties];
 - d)	the Manager will continue to vote all proxies in accordance with its proxy voting policy;
 - e)	the Manager will not be responsible for undertaking any transactions affecting the Portfolio intended to facilitate reorganisation of the Portfolio by the Client or any other person except under separate written agreement between the Client and the Manager; and
-- f)	the Manager may direct the Custodian to retain or realise any investments of the Portfolio as may be required to settle transactions already initiated or to pay any outstanding liabilities of the Client in either case without prior notice to the Client. If there is a dispute as to the payment of fees to the Manager, the Client may require the disputed amount to be held in a third party escrow account pending resolution of the dispute.
+- f)	The Manager shall not be entitled to direct any third party Custodian to realise or retain any investments of the Portfolio. The Client remains responsible for ensuring that sufficient assets are available in their designated account to settle any open transactions or pay outstanding liabilities under this Agreement. In the event of a fee dispute, the Client may request that the disputed amount be held in an escrow account pending resolution.
 
 28.7.	The Manager will continue to provide periodic statements pursuant to Clause 18.2 up to the Termination Date.
 
