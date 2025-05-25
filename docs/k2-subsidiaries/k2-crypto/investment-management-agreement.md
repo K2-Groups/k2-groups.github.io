@@ -89,7 +89,7 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Investment Management Service**" means the service set out in Clause 5.1 a);
 
-["**LCIA Rules**" means the Québec Court of International Arbitration Rules as amended from time to time;][^2]
+"**QICA Rules**" means the rules of the Québec International Court of Arbitration (or any successor body) as amended from time to time.
 
 "**Legal Entity Identifier**" means the code made up of 20 alphanumerical digits which is used to uniquely identify every legal entity or structure, in any jurisdiction, that is party to a financial transaction;
 
@@ -105,13 +105,11 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Portfolio Management**" means portfolio management within the meaning of the AMF Rules;
 
-["**Proceedings**" means any suit, action or proceedings relating to any dispute arising out of or in connection with this Agreement including any dispute relating to any non-contractual obligations arising out of or in connection with this Agreement;][^3]
+"**Proceedings**" means any suit, action or proceedings relating to any dispute arising out of or in connection with this Agreement including any dispute relating to any non-contractual obligations arising out of or in connection with this Agreement;
 
 "**Regulated Market**" means a regulated market within the meaning of the AMF Rules; "Regulated Trading Venue" means a trading venue within the meaning of the AMF Rules;
 
 "**Standard of Care**" means, in relation to the Manager, the standard of care that could reasonably be expected of a professional discretionary investment manager acting in good faith and with reasonable care and skill;
-
-["**Statement of Investment Principles**" means the written statement of the principles governing decisions about investments in relation to the Scheme adopted from time to time for the purposes of section 35 of the Pensions Act 1995 or the investment strategy statement for the purposes of Regulation 7 of the Local Governmental Pension Scheme (Management and Investment of Funds) Regulation 2016;][^4]
 
 "**Trade Repository(ies)**" means a legal person(s) that centrally collects and maintains the records of derivatives or securities financing transactions;
 
@@ -130,7 +128,7 @@ e)	it ceases to have the necessary regulatory authorisation or permission to car
 
 "**Trigger Event**" means any change in applicable tax law, interpretation of tax law by Canadian courts, or in the administrative practice of the Canada Revenue Agency (CRA) or any successor body, which, in the Manager’s reasonable opinion, results in a change in the requirement to charge sales taxes (including GST, HST, QST or similar taxes) on the services, whether retrospectively or prospectively.
 
-"**VAT**" means value added tax as provided for in the Value Added Tax Act 1994 and any other tax of a similar nature [; and
+"**Sales Tax**" means any applicable goods and services tax (GST), harmonized sales tax (HST), Québec sales tax (QST), or any other similar tax imposed under applicable Canadian law [; and
 
 "**Work-out(s)**" means a debt restructuring or any similar arrangement relating to a debt instrument held from time to time within the Portfolio or to the issuer of such debt instrument][^5].
 
@@ -255,9 +253,9 @@ research charge as budgeted and the frequency with which the specific research c
 - c)	any costs and expenses associated with assistance with Litigation in connection with assets in the Portfolio in accordance with Clause 26; and
 - d)	any costs related to the termination of this Agreement payable in accordance with Clause 28.
 
-12.3	The fees set out in Schedule 3 are exclusive of any VAT or similar taxes which, if payable, shall be payable in addition by the Client at the same time as the fees, and after the provision of the Manager’s fee invoice.
+12.3  The fees set out in Schedule 3 are exclusive of any applicable sales taxes (including GST, HST, QST or similar taxes) which, if payable, shall be payable in addition by the Client at the same time as the fees and upon receipt of the Manager’s invoice.
 
-12.4	If, at any time, as a result of a Trigger Event, it appears in the reasonable opinion of the Manager that the requirement to charge VAT on the services has changed then the Manager shall, from the date of the Trigger Event, amend the amounts invoiced thereafter in respect of VAT on the services accordingly.
+12.4  If, at any time, as a result of a Trigger Event, it appears in the reasonable opinion of the Manager that the requirement to charge sales tax (including GST, HST, QST or similar taxes) on the services has changed, then the Manager shall, from the date of the Trigger Event, amend the amounts invoiced thereafter in respect of such sales tax accordingly.
  
 12.5 If, as a result of a Trigger Event, it appears, in the reasonable opinion of the Manager, that any amount paid by the Client to the Manager in respect of sales tax on the services has been paid in error, then:
 
@@ -270,7 +268,7 @@ research charge as budgeted and the frequency with which the specific research c
 
 12.7 shall be in full and final settlement of all claims arising as a result of the Trigger Event.
 
-12.8	The Parties acknowledge and agree that the Manager’s fees are based on the current understanding of the VAT treatment of the fees. In the event of any change in the VAT treatment of the fees, both Parties reserve the right to negotiate a change in the fee basis (exclusive of VAT) to reflect the revised circumstances.
+12.8 The Parties acknowledge and agree that the Manager’s fees are based on the current understanding of the sales tax treatment of such fees. In the event of any change in the applicable sales tax treatment (including GST, HST, QST or similar taxes), both Parties reserve the right to negotiate a change in the fee basis (exclusive of sales tax) to reflect the revised circumstances.
 
 12.9	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the AMF Rules to be provided in such disclosures.
 
@@ -338,14 +336,13 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 - b)	it has all necessary power and authority to execute, deliver and perform this Agreement and to enter into the transactions contemplated by this Agreement;
 - c)	it has all necessary power and authority to authorise the Manager to negotiate, execute, deliver and perform any agreement in connection with the provision of services under this Agreement on its behalf and to perform its obligations under any such agreements and enter into the transactions contemplated by this Agreement;
 - d)	neither its entry into this Agreement nor into any transaction contemplated by this Agreement will breach any law or regulation applicable to the Client;
-- e)	any restrictions to which it is subject relating to this Agreement or any transaction contemplated by this Agreement and the level of risk to be reflected in the Manager’s exercise of discretion (whether as a matter of legislation, its governing documentation[, its Statement of Investment Principles][^14] or otherwise), including its ability to bear losses and its risk tolerance, are set out in the Guidelines and the Manager shall be entitled to assume that no restrictions other than those contained in the Guidelines apply;
-- f)	it has read and understood the risk disclosures that have been separately notified to the Client by the Manager and which provide a description of the nature and risks of financial instruments including appropriate guidance on, and warnings of, the risks associated with investments in financial instruments or in respect of particular investment strategies;
-- g)	it is acting as principal with respect to the transactions contemplated under this Agreement and shall accordingly be liable as principal for all obligations under this Agreement;
-- h)	it is the sole beneficial owner of all the assets in the Portfolio (or, where it is acting as trustee, it is acting on behalf of the beneficial owner) and that the assets are free from any lien, charge or other encumbrance or security interest;
-- i)	it shall use reasonable efforts to avoid interfering with the execution of the Investment Management Service and shall not dispose of, encumber or otherwise deal with the Portfolio in a way that would prevent the Manager from discharging its responsibilities under this Agreement;
-- j)	it shall promptly provide to the Manager, and update as required, all information or documents that are reasonably necessary for the Manager to receive (including a valid Legal Entity Identifier) with a view to the proper discharge of its functions under this Agreement or which the Manager may reasonably request for such purpose or which is required by any competent authority;
-- k)	information or documentation provided by the Client or its agents to the Manager pursuant to this Agreement is accurate, complete, up-to-date and not misleading in any respect and the Client has notified the Manager of all such information which is reasonably relevant to the performance of the Manager’s duties under this Agreement[; and
-- l)	it has read and understood the sustainable finance disclosures at Schedule 7][^15].
+- e)	it has read and understood the risk disclosures that have been separately notified to the Client by the Manager and which provide a description of the nature and risks of financial instruments including appropriate guidance on, and warnings of, the risks associated with investments in financial instruments or in respect of particular investment strategies;
+- f)	it is acting as principal with respect to the transactions contemplated under this Agreement and shall accordingly be liable as principal for all obligations under this Agreement;
+- g)	it is the sole beneficial owner of all the assets in the Portfolio (or, where it is acting as trustee, it is acting on behalf of the beneficial owner) and that the assets are free from any lien, charge or other encumbrance or security interest;
+- h)	it shall use reasonable efforts to avoid interfering with the execution of the Investment Management Service and shall not dispose of, encumber or otherwise deal with the Portfolio in a way that would prevent the Manager from discharging its responsibilities under this Agreement;
+- i)	it shall promptly provide to the Manager, and update as required, all information or documents that are reasonably necessary for the Manager to receive (including a valid Legal Entity Identifier) with a view to the proper discharge of its functions under this Agreement or which the Manager may reasonably request for such purpose or which is required by any competent authority;
+- j)	information or documentation provided by the Client or its agents to the Manager pursuant to this Agreement is accurate, complete, up-to-date and not misleading in any respect and the Client has notified the Manager of all such information which is reasonably relevant to the performance of the Manager’s duties under this Agreement[; and
+- k)	it has read and understood the sustainable finance disclosures at Schedule 7][^15].
 
 21.2.	The Manager represents, warrants and agrees, on the date of this Agreement and on a continuing basis that:
 
@@ -490,7 +487,7 @@ The Client agrees to take due account of the Manager’s comments before respond
 - c)	check such Personal Data against databases of individuals who are subject to sanctions, classified as “politically exposed persons” or have committed crimes and to follow up any suspicions to ensure that the Manager complies with its anti-money laundering and terrorism obligations and to avoid fraud itself;
 - d)	record or monitor communications as set out in Clause 31;
 - e)	use such Personal Data to meet the Manager’s compliance and regulatory duties; and/or
-- f)  transfer such Personal Data outside Canada, and disclose it to anti-fraud organisations and law enforcement or regulatory agencies (whether in Canada or internationally), and the Manager will be acting as a data controller in respect of such processing.
+- f) transfer such Personal Data outside Canada, and disclose it to anti-fraud organisations and law enforcement or regulatory agencies (whether in Canada or internationally), and the Manager will be acting as a data controller in respect of such processing.
 
 30.3.	Where the Client provides the Manager with Client Contact details or where requested to do so by the Manager, the Client will notify such individuals that the Manager may need to process their Personal Data for the purposes set out in Clause 30.2.
 
@@ -554,24 +551,20 @@ This Agreement may be executed in any number of counterparts, each of which is a
 ## 42.	[Governing law and jurisdiction
 42.1.	This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of England and Wales.
 
-42.2.	The Parties agree that the English courts shall have exclusive jurisdiction to determine any Proceedings. Each Party irrevocably submits to the exclusive jurisdiction of the English courts in respect of such Proceedings and waives any objection to any such Proceedings in such courts on the grounds of venue, waives any claim that Proceedings brought in such courts have been brought in an inappropriate or inconvenient forum and further waives the right to object, with respect to such Proceedings, that such courts do not have any jurisdiction over such Party.
-
-42.3.	The Client irrevocably appoints the process agent (if any) specified in Schedule 5 to receive, for it and on its behalf, service of process of any Proceedings. Nothing in this Agreement will affect the right of the Manager to serve process in any other manner permitted by law.]
-
-
+42.2.	The Client irrevocably appoints the process agent (if any) specified in Schedule 5 to receive, for it and on its behalf, service of process of any Proceedings. Nothing in this Agreement will affect the right of the Manager to serve process in any other manner permitted by law.]
 
 [OR]  
 [Arbitration[^22]
 
-42.4.	Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the LCIA Rules, which Rules are deemed to be incorporated by reference into this Clause 42.
+42.3 Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the QICA Rules, which Rules are deemed to be incorporated by reference into this Clause 42.
 
-42.5.	The number of arbitrators shall be three.
+42.4.	The number of arbitrators shall be three.
 
-42.6.	The seat, or legal place, of arbitration shall be Québec.
+42.5.	The seat, or legal place, of arbitration shall be Québec.
 
-42.7.	The language to be used in the arbitral proceedings shall be English.
+42.6.	The language to be used in the arbitral proceedings shall be English.
 
-42.8.	The governing law of this Clause 42 shall be the substantive laws of England and Wales.]
+42.7.	The governing law of this Clause 42 shall be the substantive laws of England and Wales.]
 
 
 The Parties have executed this Agreement on the respective dates specified below with effect from the Effective Date.
@@ -594,9 +587,6 @@ Date:
 ---
 
 [^1]: For pension scheme Clients only. Amendment ensures that, where the Client is a pension scheme trustee, it enters into the Agreement in that capacity alone.
-[^2]: Delete if opting for resolution through the courts.
-[^3]: Delete if opting for resolution by arbitration.
-[^4]: For pension scheme Clients only.
 [^5]: Delete if Clause 27 is not relevant.
 [^6]: For pension scheme Clients only. Pension scheme trustees are required to formally appoint entities managing scheme assets in accordance with the Pensions Act 1995, which requires trustees to be comfortable that the manager is appropriately qualified, experienced, etc.
 [^7]: Managers with a multi-manager strategy may need to consider whether this position is workable.
