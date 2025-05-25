@@ -60,25 +60,15 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Effective Date**" means the date specified on the first page of this Agreement;
 
-"**EU**" means the European Union, being the Union established by the Treaty on European Union signed at Maastricht on 7 February 1992 (as amended), taking into account the UK’s withdrawal from the Union pursuant to article 50 of the Treaty;
-
-"**EU EMIR**" means Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and Trade Repositories as amended from time to time;
-
-"**EU MiFIR**" means Regulation (EU) No 600/2014 on markets in financial instruments as amended from time to time;
-
-"**EU SFTR**" means Regulation (EU) No 2015/2365 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012, as amended from time to time;
-
-"**FoIA**" means the Freedom of Information Act 2000;
-
 "**Force Majeure**" means any event preventing either of the Parties from performing any or all of its obligations under this Agreement which arises from or is attributable to acts, events, omissions or accidents beyond the reasonable control of the Party so prevented, including, without limitation, nationalisation, expropriation or other governmental actions; any change of law or regulation, any law, order or regulation of a governmental, supranational or regulatory body, regulation of the banking or securities industry (including changes in market rules), postal or other strikes, lock-outs or other industrial disputes (whether involving the workforce of the Party so prevented or of any other party), act of terrorism or of God, fire, flood, storm, war, riot, civil commotion, malicious damage (including to systems), failure or breakdown in communications, computer facilities or software and the failure of any relevant market, settlement system, Trade Repository, Custodian, Counterparty or any other party appointed by the Client for any reason to perform its obligations;
 
-"**AMF**" means the Financial Conduct Authority of the UK, its successors or assigns;
+"**AMF**" means the Autorité des marchés financiers, the financial regulatory authority in the province of Québec, Canada, or any successor or replacement body;
 
-"**AMF Rules**" means the rules and guidance contained in the Handbook issued by the AMF; "FSMA" means the Financial Services and Markets Act 2000;
+"**AMF Rules**" means the rules and guidance contained in the Handbook issued by the AMF;
 
 "**Guidelines**" means the investment policy, objectives and restrictions set out in Schedule 2;
 
-"**HMRC**" means Her Majesty’s Revenue & Customs;
+"**CRA**" means the Canada Revenue Agency or any successor body responsible for administering federal tax laws in Canada;
 
 "**Indemnified Persons**" means the indemnified persons identified at Clause 23 other than the Manager;
 
@@ -138,15 +128,7 @@ e)	it ceases to have the necessary regulatory authorisation or permission to car
 
 ["**Third Party Research Policy**" means the policy of the Manager relating to the use of third party research as required by the AMF Rules and as amended by the Manager from time to time];
 
-"**Trigger Event**" means any change of law, in interpretation on the basis of case law accepted by HMRC, or in the practice of HMRC, in each case which results, in the Manager’s reasonable opinion, in a change in the requirement to charge VAT on the services, whether in the past or in future;
-
-"**UK**" means the United Kingdom;
-
-"**UK EMIR**" means Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and Trade Repositories as amended from time to time and transposed into the laws of the UK pursuant to the European Union (Withdrawal) Act 2018 and the European Union (Withdrawal Agreement) Act 2020;
-
-"**UK MiFIR**" means Regulation (EU) No 600/2014 on markets in financial instruments as amended from time to time and transposed into the laws of the UK pursuant to the European Union (Withdrawal) Act 2018 and the European Union (Withdrawal Agreement) Act 2020;
-
-"**UK SFTR**" means Regulation (EU) No 2015/2365 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012, as amended from time to time and transposed into the laws of the UK pursuant to the European Union (Withdrawal) Act 2018 and the European Union (Withdrawal Agreement) Act 2020;
+"**Trigger Event**" means any change in applicable tax law, interpretation of tax law by Canadian courts, or in the administrative practice of the Canada Revenue Agency (CRA) or any successor body, which, in the Manager’s reasonable opinion, results in a change in the requirement to charge sales taxes (including GST, HST, QST or similar taxes) on the services, whether retrospectively or prospectively.
 
 "**VAT**" means value added tax as provided for in the Value Added Tax Act 1994 and any other tax of a similar nature [; and
 
@@ -156,7 +138,7 @@ In this Agreement:
 
 - a)	any other words or phrases used which are defined in the AMF Rules shall have the same meanings in this Agreement unless the context requires otherwise;  
 - b)	references to statutory provisions, regulations, notices or the AMF Rules shall include those provisions, regulations, notices or rules as amended, extended, consolidated, substituted or re-enacted from time to time;  
-- c)	references to legislation, acts of parliament or other statutory provisions are, for the avoidance of doubt, references to UK legislation, Acts of Parliament and statutes;
+- c)  references to legislation, acts of parliament or other statutory provisions are, for the avoidance of doubt, references to applicable Canadian federal or provincial legislation, including statutes enacted by the Parliament of Canada or the National Assembly of Québec, as applicable;
 - d)	words in headings are for information only and shall not affect the construction of this Agreement;  
 - e)	references to "person" shall be construed as including any natural or legal person;  
 - f)	any words following the terms "including", "include", "in particular", or any similar expression shall be construed as illustrative and shall not limit the sense of the words, description, definition, phrase or term preceding those terms; and  
@@ -222,8 +204,6 @@ The Manager shall perform its obligations under this Agreement in accordance wit
 
 7.4.	Notwithstanding any other provision in this Agreement, no warranty, assurance or undertaking is given by the Manager as to the performance, returns, increase in or retention of value or profitability of the Portfolio (or any part of it) or that the investment objectives or targets in the Guidelines shall be successfully achieved, whether in whole or in part.
 
-7.5.	[Include relevant terms regarding EU Sustainable Finance Disclosure Regulation (EU) 2019/2088 (“SFDR”) and the EU Taxonomy Regulation (EU) 2020/852 (“TR”), Task Force on Climate-Related Financial Disclosures (“TCFD”) or other applicable relevant UK equivalent legislation or guidance.]
-
 ## 8.	Delegation and use of third parties
 8.1.	Except as otherwise provided in the Guidelines in relation to the Investment Management Service:
 
@@ -278,21 +258,21 @@ research charge as budgeted and the frequency with which the specific research c
 12.3	The fees set out in Schedule 3 are exclusive of any VAT or similar taxes which, if payable, shall be payable in addition by the Client at the same time as the fees, and after the provision of the Manager’s fee invoice.
 
 12.4	If, at any time, as a result of a Trigger Event, it appears in the reasonable opinion of the Manager that the requirement to charge VAT on the services has changed then the Manager shall, from the date of the Trigger Event, amend the amounts invoiced thereafter in respect of VAT on the services accordingly.
+ 
+12.5 If, as a result of a Trigger Event, it appears, in the reasonable opinion of the Manager, that any amount paid by the Client to the Manager in respect of sales tax on the services has been paid in error, then:
 
-12.5	If, as a result of a Trigger Event, it appears, in the reasonable opinion of the Manager, that any amount paid by the Client to the Manager in respect of VAT on the services has been paid in error, then:
+- a)  if and to the extent that the Manager is not already obliged to remit such sales tax to the Canada Revenue Agency (CRA), the Manager shall promptly repay such amount to the Client;
+- b)  if and to the extent that the Manager has already remitted such sales tax to the CRA:
+  - i. the Manager shall promptly make a refund claim (the “Claim”) to the CRA for the amount of such tax; and
+  - ii. after the CRA has credited the Manager for the Claim amount (in whole or in part), the Manager shall promptly reimburse the Client such amount, provided that the Manager shall not be required to reimburse more than the final net amount actually credited to it by the CRA (as reasonably determined by the Manager), taking into account any irrecoverable taxes suffered by the Manager, regardless of when such taxes were incurred.
 
-- a)	if and to the extent that the Manager is not already obliged to account for such VAT to HMRC, the Manager shall promptly repay such amount to the Client;
-- b)	if and to the extent that the Manager has already so accounted for such VAT to HMRC:
-  - i.	the Manager shall promptly make a claim (the “Claim”) to HMRC for the amount of such VAT; and
-  - ii.	after HMRC has credited to the Manager the amount specified in the Claim or part thereof, the Manager shall promptly reimburse to the Client such amount (where applicable, in accordance with the provisions of Part VA of the VAT Regulations 1995), provided always that the Manager shall not be required to reimburse to the Client any amount in excess of any final net amount with which it has been credited by HMRC in respect of the services (as reasonably determined by the Manager) taking into account any irrecoverable VAT suffered by the Manager regardless of when that VAT is suffered.
+12.6  The payment by the Manager to the Client of any amount received from the Canada Revenue Agency (CRA) in accordance with Clause 12.5 shall fully discharge the Manager’s obligation to refund such sales tax to the Client in respect of the relevant services.
 
-12.6	The payment by the Manager to the Client of the amount received from HMRC in accordance with Clause
+12.7 shall be in full and final settlement of all claims arising as a result of the Trigger Event.
 
-12.5 shall be in full and final settlement of all claims arising as a result of the Trigger Event.
+12.8	The Parties acknowledge and agree that the Manager’s fees are based on the current understanding of the VAT treatment of the fees. In the event of any change in the VAT treatment of the fees, both Parties reserve the right to negotiate a change in the fee basis (exclusive of VAT) to reflect the revised circumstances.
 
-12.7	The Parties acknowledge and agree that the Manager’s fees are based on the current understanding of the VAT treatment of the fees. In the event of any change in the VAT treatment of the fees, both Parties reserve the right to negotiate a change in the fee basis (exclusive of VAT) to reflect the revised circumstances.
-
-12.8	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the AMF Rules to be provided in such disclosures.
+12.9	The Manager shall separately provide information on costs and associated charges to the Client including all information required by the AMF Rules to be provided in such disclosures.
 
 ## 13.	Custody of assets
 13.1.	The Manager shall not provide custody services to the Client.
@@ -387,7 +367,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 22.3	The Manager shall not be responsible for any Losses incurred after the Termination Date under this Agreement unless and to the extent that the act or omission causing such Losses can be evidenced to have occurred prior to the Termination Date under this Agreement.
 
-22.4	Nothing in this Agreement shall exclude or restrict any duty or liability which the Manager may have to the Client under FSMA or the AMF Rules [or, where relevant, the Pensions Act 1995].[^16]
+22.4	Nothing in this Agreement shall exclude or restrict any duty or liability which the Manager may have to the Client under the AMF Rules or any other applicable laws or regulations in Canada.
 
 ## 23.	Indemnification
 23.1.	The Client indemnifies the Manager and any Delegate and their directors, officers and employees against any and all Losses paid, suffered or incurred by the Manager or the Delegate or their directors, officers or employees, directly or indirectly arising as a result of:
@@ -486,15 +466,13 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 29.6.	The Parties agree that damages may not be an adequate remedy for any breach of this Clause 29 and, accordingly, each shall be entitled (but not limited) to seek injunctive or other equitable relief restraining the other from breaching this Clause 29.
 
-29.7.	If the Client is a “public authority” for the purposes of section 3 of the FoIA, it shall immediately notify the Manager if it:
+29.7. If the Client is subject to federal or provincial access to information legislation (such as the Access to Information Act or similar provincial laws), and receives any request that may require disclosure of commercially sensitive or confidential information relating to the Manager, this Agreement or the services provided hereunder, the Client shall:
 
-- a)	receives a request for information under section 8 of the FoIA which covers commercially sensitive or confidential information relating to the Manager, this Agreement or to the services provided under it;
-- b)	responds to such a request;
-- c)	receives a complaint in relation to the handling of such a request;
-- d)	becomes aware that an application has been made to the Information Commissioner (as defined in the FoIA) for a decision in relation to such a request;
-- e)	becomes aware that the Information Commissioner has served any notice on it under Part IV of the FoIA in relation to such a request;
-- f)	becomes aware that an appeal has been made to the Information Tribunal (as defined in the FoIA) or the court in relation to such a request; or
-- g)	becomes aware that commercially sensitive or confidential information relating to the Manager, this Agreement or to the services provided under it has been or is about to be disclosed to a third party without the Manager’s express written permission, and in each case shall provide the Manager with such details as reasonably may be requested by the Manager. When the Client has notified the Manager of the nature of the request received by the Client, the Client then agrees to give the Manager a reasonable opportunity to comment on whether an exemption from the requirement to disclose may be applicable and the Client shall take due regard of any such comments before making its response. The Manager agrees to respond in a timely manner.
+- a) notify the Manager without delay;
+- b) provide the Manager with reasonable details of the request; and
+- c) allow the Manager a reasonable opportunity to comment on whether an exemption to disclosure may apply.
+
+The Client agrees to take due account of the Manager’s comments before responding to such a request.
 
 29.8.	In providing the services under this Agreement, neither the Manager, its Affiliates or a Delegate shall be obliged to disclose or to take into consideration (or to require any third party to disclose or take into consideration) any information:
 
@@ -512,11 +490,11 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 - c)	check such Personal Data against databases of individuals who are subject to sanctions, classified as “politically exposed persons” or have committed crimes and to follow up any suspicions to ensure that the Manager complies with its anti-money laundering and terrorism obligations and to avoid fraud itself;
 - d)	record or monitor communications as set out in Clause 31;
 - e)	use such Personal Data to meet the Manager’s compliance and regulatory duties; and/or
-- f)	transfer such Personal Data outside the UK and disclose it to anti-fraud organisations and law enforcement or regulatory agencies anywhere in the world, and the Manager will be acting as a data controller in respect of such processing.
+- f)  transfer such Personal Data outside Canada, and disclose it to anti-fraud organisations and law enforcement or regulatory agencies (whether in Canada or internationally), and the Manager will be acting as a data controller in respect of such processing.
 
 30.3.	Where the Client provides the Manager with Client Contact details or where requested to do so by the Manager, the Client will notify such individuals that the Manager may need to process their Personal Data for the purposes set out in Clause 30.2.
 
-30.4.	The Manager will maintain a data protection fair processing notice on its website setting out the details of such processing and all other information required by, and in compliance with, Data Protection Laws, which the Client will also refer Client Contacts to when it makes a notification under Clause 30.3.[^19]
+30.4. The Manager will maintain a privacy and data protection notice on its website in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA), setting out the nature and purpose of the processing of personal data and the Client will refer any Client Contacts to such notice where applicable.
 
 30.5.	[For the avoidance of doubt, except as set out above, the Manager shall be responsible for providing notices and obtaining any consents in relation to any processing of Client Contacts’ Personal Data, including in relation to marketing.][^20]
 
@@ -629,10 +607,8 @@ Date:
 [^13]: Monthly” would apply where the Client has authorised a leveraged Portfolio.
 [^14]: For pension scheme Clients only.
 [^15]: Managers should only include where Clause 7.5 is used.
-[^16]: For pension scheme Clients only.
 [^17]: Only likely to be relevant to fixed income Managers.
 [^18]: For pension scheme Clients only. This reflects that, in the context of a pension scheme, the sponsoring employer usually participates in investment meetings and the development of investment strategy. This wording allows employers to do so without risking a technical breach of confidentiality requirements.
-[^19]: Note that the detail required by the UK version of the General Data Protection Regulation (Regulation (EU) 2016/679) as provided for under the Data Protection, Privacy and Electronic Communications (Amendments ETC) (EU Exit) Regulations 2019 must be included in the Manager’s website privacy policy.
 [^20]: Optional. Include if the Manager has given the correct marketing notice/opt-in or out to the relevant Client Contact at the time it collects their information.
 [^21]: Only include where Schedule 7 is used.
 [^22]: LCIA standard wording. Included to give the Manager optionality with respect to dispute resolution.
