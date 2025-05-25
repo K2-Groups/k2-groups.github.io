@@ -40,7 +40,7 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Affiliate**" means, in relation to the Manager, any entity controlled, directly or indirectly, by the Manager, any entity that controls, directly or indirectly, the Manager or an entity directly or indirectly under the common control with the Manager;
 
-"**Authorised Person**" means a person whose name, details and signature appears in Schedule 1, as amended by the Client from time to time by giving notice to the Manager in accordance with Clause 33, and who is authorised to give Instructions on behalf of the Client;
+"**Authorised Person**" means a person whose name, details and signature appears in Schedule 1, as amended by the Client from time to time by giving notice to the Manager in accordance with Clause 32, and who is authorised to give Instructions on behalf of the Client;
 
 "**Business Day**" means a day on which commercial banks are generally open for business (including dealings in foreign exchange and foreign currency deposits) in Québec;
 
@@ -113,7 +113,7 @@ In this Agreement the following words and expressions shall have the following m
 
 "**Trade Repository(ies)**" means a legal person(s) that centrally collects and maintains the records of derivatives or securities financing transactions;
 
-"**Termination Date**" means the date determined in accordance with Clauses 28.2, 28.3 or 28.4;
+"**Termination Date**" means the date determined in accordance with Clauses 27.2, 27.3 or 27.4;
 
 "**Termination Event**" means the occurrence at any time with respect to either Party of any of the following events:  
 a)	it is required by applicable law or by any competent authority to terminate this Agreement;  
@@ -122,15 +122,13 @@ c)	it is in material breach of this Agreement and (if remediable) has failed to 
 d)	it is affected by Force Majeure which persists for 20 calendar days; or  
 e)	it ceases to have the necessary regulatory authorisation or permission to carry on its business under this Agreement;
 
-"**Termination Notice Date**" means the date upon which the notice of termination given by the Client pursuant to Clause 28.4 is deemed effective in accordance with the provisions of Clause 33;
+"**Termination Notice Date**" means the date upon which the notice of termination given by the Client pursuant to Clause 27.4 is deemed effective in accordance with the provisions of Clause 32;
 
-["**Third Party Research Policy**" means the policy of the Manager relating to the use of third party research as required by the AMF Rules and as amended by the Manager from time to time];
+"**Third Party Research Policy**" means the policy of the Manager relating to the use of third party research as required by the AMF Rules and as amended by the Manager from time to time;
 
 "**Trigger Event**" means any change in applicable tax law, interpretation of tax law by Canadian courts, or in the administrative practice of the Canada Revenue Agency (CRA) or any successor body, which, in the Manager’s reasonable opinion, results in a change in the requirement to charge sales taxes (including GST, HST, QST or similar taxes) on the services, whether retrospectively or prospectively.
 
-"**Sales Tax**" means any applicable goods and services tax (GST), harmonized sales tax (HST), Québec sales tax (QST), or any other similar tax imposed under applicable Canadian law [; and
-
-"**Work-out(s)**" means a debt restructuring or any similar arrangement relating to a debt instrument held from time to time within the Portfolio or to the issuer of such debt instrument][^5].
+"**Sales Tax**" means any applicable goods and services tax (GST), harmonized sales tax (HST), Québec sales tax (QST), or any other similar tax imposed under applicable Canadian law.
 
 In this Agreement:
 
@@ -249,9 +247,9 @@ research charge as budgeted and the frequency with which the specific research c
 12.2	In addition to the Manager’s fees, the Client will be liable for:
 
 - a)	any costs payable and properly incurred under this Agreement, including all reasonable expenses, liabilities, charges [(including any research charge agreed with the Client)][^12] and costs including but not limited to any brokerage charges, commissions, transfer fees, registration fees, exchange fees, settlement fees, and stamp duty, tax or other fiscal liabilities or any other transaction related expenses and fees arising out of transactions in the Portfolio incurred by the Manager, its Delegates or persons appointed or retained in accordance with Clause 8 in performing the services under this Agreement;
-- b)	any costs and expenses payable to bond trustees [or legal charges associated with Work-outs] in connection with assets in the Portfolio;
+- b)	any costs and expenses payable to bond trustees in connection with assets in the Portfolio;
 - c)	any costs and expenses associated with assistance with Litigation in connection with assets in the Portfolio in accordance with Clause 26; and
-- d)	any costs related to the termination of this Agreement payable in accordance with Clause 28.
+- d)	any costs related to the termination of this Agreement payable in accordance with Clause 27.
 
 12.3  The fees set out in Schedule 3 are exclusive of any applicable sales taxes (including GST, HST, QST or similar taxes) which, if payable, shall be payable in addition by the Client at the same time as the fees and upon receipt of the Manager’s invoice.
 
@@ -384,7 +382,7 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 ## 25.	Instructions
 25.1.	The Client may, from time to time, give Instructions to the Manager directing the Manager to take, or refrain from taking, particular actions under this Agreement.
 
-25.2.	Any direction given to the Manager seeking to amend or vary the terms of this Agreement shall not be deemed to be an Instruction and shall be subject to the provisions of Clause 39.
+25.2.	Any direction given to the Manager seeking to amend or vary the terms of this Agreement shall not be deemed to be an Instruction and shall be subject to the provisions of Clause 38.
 
 25.3.	The Manager shall be entitled to rely upon any Instruction from an Authorised Person, or from such other person where the Manager reasonably believes the Instruction to be from an Authorised Person, whether or not the authority of such person is then effective and without further enquiry of the Client in relation to the genuineness, authority or identity of the Authorised Person.
 
@@ -406,23 +404,18 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 26.3.	Notwithstanding the foregoing, the Manager may, at the reasonable request of the Client, agree to disclose information held by the Manager directly relevant to such Litigation, subject to any duty of confidentiality owed to any third party by the Manager and provided that the Manager shall be fully indemnified to its reasonable satisfaction for all Losses that may be incurred or suffered by the Manager in connection with such disclosure.
 
-## 27.	[Work-outs[^17]
-27.1.	The Manager may, but is not obliged to, participate in Work-outs provided that the Manager shall not be required to take any such action unless fully indemnified to its reasonable satisfaction for all Losses that may be incurred or suffered by the Manager in connection with such action.
+## 27.	Termination
+27.1.	This Agreement shall continue until terminated in accordance with this Clause 27. This Agreement shall remain in full force and effect up to the Termination Date except as provided in Clause 27.6.
 
-27.2.	In relation to Work-outs, from time to time the Manager may earn fees from issuers of debt instruments in respect of actions undertaken by the Manager as a representative of the beneficial owners of those debt instruments in a creditors’ committee or similar body, which may include the Client, to maximise the value obtained by the beneficial owners of such bonds in a restructuring or any similar arrangement relating to the bonds or the issuer. The Client consents to the Manager retaining any remuneration received in respect of any Work-out.]
+27.2.	If at any time a Termination Event with respect to a Party has occurred, either Party may, by written notice to the other Party specifying the relevant Termination Event, designate a Termination Date not earlier than the day such notice is effective.
 
-## 28.	Termination
-28.1.	This Agreement shall continue until terminated in accordance with this Clause 28. This Agreement shall remain in full force and effect up to the Termination Date except as provided in Clause 28.6.
+27.3.	The Manager may at any time terminate this Agreement on [30]/ [60]/ [90]/ [•] Business Days’ written notice. The Termination Date shall be the first Business Day which falls [30]/ [60]/ [90]/ [•] Business Days after the date on which written notice given to the Client was effective or such later date as specified in the notice.
 
-28.2.	If at any time a Termination Event with respect to a Party has occurred, either Party may, by written notice to the other Party specifying the relevant Termination Event, designate a Termination Date not earlier than the day such notice is effective.
+27.4.	The Client may at any time terminate this Agreement on written notice to the Manager. Such notice shall designate a date as the Termination Date which may be the same Business Day as the day on which written notice is given but shall not be more than [30]/ [60]/ [90]/ [•] Business Days after the date on which written notice given was effective (in both cases, the date on which written notice was given will be determined in accordance with the provisions of Clause 32).
 
-28.3.	The Manager may at any time terminate this Agreement on [30]/ [60]/ [90]/ [•] Business Days’ written notice. The Termination Date shall be the first Business Day which falls [30]/ [60]/ [90]/ [•] Business Days after the date on which written notice given to the Client was effective or such later date as specified in the notice.
+27.5.	Unless otherwise agreed between the Parties, in circumstances where the Manager terminates this Agreement pursuant to Clause 27.3, the Manager shall continue to supply the Investment Management Service up until the Termination Date and shall cooperate with and take such steps as the Client may reasonably require in order to effect the orderly termination of this Agreement and to transfer the Portfolio or an amount equal to the Portfolio to or at the direction of the Client.
 
-28.4.	The Client may at any time terminate this Agreement on written notice to the Manager. Such notice shall designate a date as the Termination Date which may be the same Business Day as the day on which written notice is given but shall not be more than [30]/ [60]/ [90]/ [•] Business Days after the date on which written notice given was effective (in both cases, the date on which written notice was given will be determined in accordance with the provisions of Clause 33).
-
-28.5.	Unless otherwise agreed between the Parties, in circumstances where the Manager terminates this Agreement pursuant to Clause 28.3, the Manager shall continue to supply the Investment Management Service up until the Termination Date and shall cooperate with and take such steps as the Client may reasonably require in order to effect the orderly termination of this Agreement and to transfer the Portfolio or an amount equal to the Portfolio to or at the direction of the Client.
-
-28.6.	Unless otherwise agreed between the Parties, in circumstances where the Client terminates this Agreement pursuant to Clause 28.4, the Client agrees and acknowledges that with effect from the Cessation of Investment Management Service Date up to and including the Termination Date, the following terms shall apply:
+27.6.	Unless otherwise agreed between the Parties, in circumstances where the Client terminates this Agreement pursuant to Clause 27.4, the Client agrees and acknowledges that with effect from the Cessation of Investment Management Service Date up to and including the Termination Date, the following terms shall apply:
 
 - a)	the Manager shall cease to provide the Investment Management Service and in particular:
   - i.	the Manager will not effect any new purchases of assets in relation to the Portfolio provided that transactions already effected but awaiting settlement will be unaffected and shall settle as normal;
@@ -436,34 +429,34 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 - e)	the Manager will not be responsible for undertaking any transactions affecting the Portfolio intended to facilitate reorganisation of the Portfolio by the Client or any other person except under separate written agreement between the Client and the Manager; and
 - f)	The Manager shall not be entitled to direct any third party Custodian to realise or retain any investments of the Portfolio. The Client remains responsible for ensuring that sufficient assets are available in their designated account to settle any open transactions or pay outstanding liabilities under this Agreement. In the event of a fee dispute, the Client may request that the disputed amount be held in an escrow account pending resolution.
 
-28.7.	The Manager will continue to provide periodic statements pursuant to Clause 18.2 up to the Termination Date.
+27.7.	The Manager will continue to provide periodic statements pursuant to Clause 18.2 up to the Termination Date.
 
-28.8.	The Client shall pay:
+27.8.	The Client shall pay:
 
 - a)	the fees and expenses of the Manager due up to the Termination Date; and
 - b)	any additional expenses necessarily incurred by the Manager in terminating the Agreement, and the Client shall bear any losses necessarily realised in settling or concluding outstanding obligations.
 
-28.9.	Termination of this Agreement shall not affect accrued rights, existing commitments or any contractual provision intended to survive termination.
+27.9.	Termination of this Agreement shall not affect accrued rights, existing commitments or any contractual provision intended to survive termination.
 
-## 29.	Confidentiality
-29.1.	Each Party shall treat Confidential Information as confidential and shall not disclose such information except if:
+## 28.	Confidentiality
+28.1.	Each Party shall treat Confidential Information as confidential and shall not disclose such information except if:
 
 - a)	it is required to do so under applicable law;
 - b)	it is so requested by competent regulatory or fiscal authorities or a court or tribunal of competent jurisdiction;
 - c)	it is disclosed in confidence to its advisers, auditors or insurers where reasonably necessary for the performance of their professional services; or
 - d)	it is disclosed in confidence to its industry body for the purpose of compiling and publishing industry statistics or analysis.
 
-29.2.	Notwithstanding Clause 29.1, the Manager may disclose in confidence any Confidential Information to any person (including, without limitation, Affiliates, Delegates, Counterparties (in accordance with market practice) or any other persons) in all cases only to assist or enable the proper performance of its services and to enforce its obligations and rights under this Agreement. The Manager may disclose such facts about the appointment in a press release as the Manager and the Client may agree.
+28.2.	Notwithstanding Clause 28.1, the Manager may disclose in confidence any Confidential Information to any person (including, without limitation, Affiliates, Delegates, Counterparties (in accordance with market practice) or any other persons) in all cases only to assist or enable the proper performance of its services and to enforce its obligations and rights under this Agreement. The Manager may disclose such facts about the appointment in a press release as the Manager and the Client may agree.
 
-29.3.	Notwithstanding Clause 29.1, the Manager may disclose any Confidential Information to a competent regulatory authority as may be required in order to assist the Client in complying with its obligations under applicable law in connection with the services provided for under this Agreement.
+28.3.	Notwithstanding Clause 28.1, the Manager may disclose any Confidential Information to a competent regulatory authority as may be required in order to assist the Client in complying with its obligations under applicable law in connection with the services provided for under this Agreement.
 
-29.4.	[Notwithstanding Clause 29.1, the Client may disclose in confidence and on a non-reliance basis, any Confidential Information to employers participating in the Scheme or their relevant group companies and their advisers, where it is reasonable to do so in the context of administering the Scheme. ][^18]
+28.4.	[Notwithstanding Clause 28.1, the Client may disclose in confidence and on a non-reliance basis, any Confidential Information to employers participating in the Scheme or their relevant group companies and their advisers, where it is reasonable to do so in the context of administering the Scheme. ][^18]
 
-29.5.	Confidential Information shall remain confidential for a period of two (2) years from the Termination Date of this Agreement.
+28.5.	Confidential Information shall remain confidential for a period of two (2) years from the Termination Date of this Agreement.
 
-29.6.	The Parties agree that damages may not be an adequate remedy for any breach of this Clause 29 and, accordingly, each shall be entitled (but not limited) to seek injunctive or other equitable relief restraining the other from breaching this Clause 29.
+28.6.	The Parties agree that damages may not be an adequate remedy for any breach of this Clause 28 and, accordingly, each shall be entitled (but not limited) to seek injunctive or other equitable relief restraining the other from breaching this Clause 28.
 
-29.7. If the Client is subject to federal or provincial access to information legislation (such as the Access to Information Act or similar provincial laws), and receives any request that may require disclosure of commercially sensitive or confidential information relating to the Manager, this Agreement or the services provided hereunder, the Client shall:
+28.7. If the Client is subject to federal or provincial access to information legislation (such as the Access to Information Act or similar provincial laws), and receives any request that may require disclosure of commercially sensitive or confidential information relating to the Manager, this Agreement or the services provided hereunder, the Client shall:
 
 - a) notify the Manager without delay;
 - b) provide the Manager with reasonable details of the request; and
@@ -471,68 +464,68 @@ Any transactions in derivatives permitted by the Guidelines shall be subject to 
 
 The Client agrees to take due account of the Manager’s comments before responding to such a request.
 
-29.8.	In providing the services under this Agreement, neither the Manager, its Affiliates or a Delegate shall be obliged to disclose or to take into consideration (or to require any third party to disclose or take into consideration) any information:
+28.8.	In providing the services under this Agreement, neither the Manager, its Affiliates or a Delegate shall be obliged to disclose or to take into consideration (or to require any third party to disclose or take into consideration) any information:
 
 - a)	the disclosure or use of which might breach any prohibition, duty or confidence to any other person or arising under any applicable law;
 - b)	which comes to the notice of an employee, officer or agent of the Manager, its Affiliates or a Delegate, but properly does not come to the actual notice of an individual managing the Portfolio; or
 - c)	relating to the nature or extent of any interest the Manager or any Affiliate has in any investments.
 
-## 30.	Data protection
-30.1.	Each Party will comply with Data Protection Laws.
+## 29.	Data protection
+29.1.	Each Party will comply with Data Protection Laws.
 
-30.2.	In order to provide the services the Manager or a Delegate may need to:
+29.2.	In order to provide the services the Manager or a Delegate may need to:
 
 - a)	communicate with the Client’s trustees, owners, officers and employees (“Client Contacts”) in relation to the services;
 - b)	process identification details of the Client Contacts in order to confirm their identities;
 - c)	check such Personal Data against databases of individuals who are subject to sanctions, classified as “politically exposed persons” or have committed crimes and to follow up any suspicions to ensure that the Manager complies with its anti-money laundering and terrorism obligations and to avoid fraud itself;
-- d)	record or monitor communications as set out in Clause 31;
+- d)	record or monitor communications as set out in Clause 30;
 - e)	use such Personal Data to meet the Manager’s compliance and regulatory duties; and/or
 - f) transfer such Personal Data outside Canada, and disclose it to anti-fraud organisations and law enforcement or regulatory agencies (whether in Canada or internationally), and the Manager will be acting as a data controller in respect of such processing.
 
-30.3.	Where the Client provides the Manager with Client Contact details or where requested to do so by the Manager, the Client will notify such individuals that the Manager may need to process their Personal Data for the purposes set out in Clause 30.2.
+29.3.	Where the Client provides the Manager with Client Contact details or where requested to do so by the Manager, the Client will notify such individuals that the Manager may need to process their Personal Data for the purposes set out in Clause 29.2.
 
-30.4. The Manager will maintain a privacy and data protection notice on its website in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA), setting out the nature and purpose of the processing of personal data and the Client will refer any Client Contacts to such notice where applicable.
+29.4. The Manager will maintain a privacy and data protection notice on its website in accordance with the Personal Information Protection and Electronic Documents Act (PIPEDA), setting out the nature and purpose of the processing of personal data and the Client will refer any Client Contacts to such notice where applicable.
 
-30.5.	[For the avoidance of doubt, except as set out above, the Manager shall be responsible for providing notices and obtaining any consents in relation to any processing of Client Contacts’ Personal Data, including in relation to marketing.][^20]
+29.5.	[For the avoidance of doubt, except as set out above, the Manager shall be responsible for providing notices and obtaining any consents in relation to any processing of Client Contacts’ Personal Data, including in relation to marketing.][^20]
 
-## 31.	Communications and taping
-31.1.	Subject to compliance with applicable law, either Party may record telephone conversations with the other. The Manager may record or monitor telephone conversations and other communications with or by the Client (including mails, emails or documentation of client orders made at meetings). The Client agrees that the Manager may deliver copies or transcripts of such recordings to any court or competent authority. A copy of any such conversations with the Client and communications with the Client will be available on request for a period of five years (or, where requested by the AMF, for a period of up to seven years) from the date when the record is made.
+## 30.	Communications and taping
+30.1.	Subject to compliance with applicable law, either Party may record telephone conversations with the other. The Manager may record or monitor telephone conversations and other communications with or by the Client (including mails, emails or documentation of client orders made at meetings). The Client agrees that the Manager may deliver copies or transcripts of such recordings to any court or competent authority. A copy of any such conversations with the Client and communications with the Client will be available on request for a period of five years (or, where requested by the AMF, for a period of up to seven years) from the date when the record is made.
 
-31.2.	The Manager will communicate with the Client [in English] and, subject to Clause 33, will communicate with the Client as considered appropriate, including through the Manager’s website, by email or otherwise. [The Client hereby consents to receiving communications and reports under this Agreement (including but not limited to valuations) electronically online via the Manager’s secure client website ([insert website link]).] The Client understands that if documents are only available online the Client will not receive a printed version. A paper copy of such communications and reports will be available to the Client upon request.
+30.2.	The Manager will communicate with the Client [in English] and, subject to Clause 32, will communicate with the Client as considered appropriate, including through the Manager’s website, by email or otherwise. [The Client hereby consents to receiving communications and reports under this Agreement (including but not limited to valuations) electronically online via the Manager’s secure client website ([insert website link]).] The Client understands that if documents are only available online the Client will not receive a printed version. A paper copy of such communications and reports will be available to the Client upon request.
 
-## 32.	Force Majeure
+## 31.	Force Majeure
 No Party to this Agreement shall be liable for any failure or delay in performing any of its obligations under or pursuant to this Agreement, and any such failure or delay in performing its obligations will not constitute a breach of this Agreement, if and to the extent that such failure or delay is due to an event of Force Majeure.
 
-## 33.	Notices
-Any notice in respect of this Agreement may be given in any manner set forth below to the address and/or email provided in Schedule 5, or to such other address as shall be notified in accordance with this Clause 33 by that Party to the other Party from time to time and will be deemed given as indicated:
+## 32.	Notices
+Any notice in respect of this Agreement may be given in any manner set forth below to the address and/or email provided in Schedule 5, or to such other address as shall be notified in accordance with this Clause 32 by that Party to the other Party from time to time and will be deemed given as indicated:
 
 - a)	if in writing and delivered in person or by courier, on the date it is delivered;
 - b)	if sent by registered or certified mail or equivalent, on the date that mail is delivered; and
 - c)	if sent by electronic messaging system including email, on the date that electronic message is acknowledged by the recipient,
 unless the date of delivery or that receipt, as applicable, is not a Business Day or that notice is delivered, received or acknowledged, as applicable, after 5pm local time in Québec on a Business Day, in which case that notice shall be deemed given and effective on the first following day that is a Business Day.
 
-## 34.	Complaints
+## 33.	Complaints
 All formal complaints by the Client relating to the services provided by the Manager under this Agreement should in the first instance be made in writing to the compliance officer of the Manager. Subsequently, the Client may have a right to complain directly to the Financial Ombudsman Service. A copy of the Manager’s complaints management policy is available on request and will otherwise be provided in accordance with the AMF Rules.
 
-## 35.	Compensation
+## 34.	Compensation
 The Client may be entitled to compensation from the Financial Services Compensation Scheme if the Manager cannot meet its obligations. This depends on the type of business and the circumstances of the claim. Generally, a professional client will not be eligible for compensation.
 
-## 36.	Assignment and transfer
-36.1.	Save as provided in this Clause 36, neither Party may assign, transfer or novate, or purport to assign, transfer or novate, any of its rights or obligations under this Agreement without the prior written consent of the other Party, such consent not to be unreasonably withheld or delayed.
+## 35.	Assignment and transfer
+35.1.	Save as provided in this Clause 35, neither Party may assign, transfer or novate, or purport to assign, transfer or novate, any of its rights or obligations under this Agreement without the prior written consent of the other Party, such consent not to be unreasonably withheld or delayed.
 
-36.2.	[The Client agrees that the Manager may assign, transfer or novate any of its rights or obligations under this Agreement to one or more Affiliates, by giving the Client notice which shall specify a date upon which the assignment, transfer or novation shall become effective.]
+35.2.	[The Client agrees that the Manager may assign, transfer or novate any of its rights or obligations under this Agreement to one or more Affiliates, by giving the Client notice which shall specify a date upon which the assignment, transfer or novation shall become effective.]
 
-## 37.	Entire agreement, waivers and remedies
-37.1.	This Agreement, including its Schedules (as amended from time to time) and any current Instructions, constitutes the entire agreement between the Manager and the Client with respect to services relating to the Portfolio. This Agreement supersedes all prior understandings, arrangements, agreements, representations, proposals or communications between the Parties, whether written or oral. Neither Party has relied on any statements or representations during the negotiations other than those expressly incorporated in this Agreement.
+## 36.	Entire agreement, waivers and remedies
+36.1.	This Agreement, including its Schedules (as amended from time to time) and any current Instructions, constitutes the entire agreement between the Manager and the Client with respect to services relating to the Portfolio. This Agreement supersedes all prior understandings, arrangements, agreements, representations, proposals or communications between the Parties, whether written or oral. Neither Party has relied on any statements or representations during the negotiations other than those expressly incorporated in this Agreement.
 
-37.2.	No failure on the part of a Party to exercise, nor delay by it in exercising, any right or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise or any right or remedy preclude any other further exercise of that right or remedy or the exercise of any other right or remedy. The rights and remedies provided in this Agreement are cumulative and not exclusive of any rights or remedies provided by law.
+36.2.	No failure on the part of a Party to exercise, nor delay by it in exercising, any right or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise or any right or remedy preclude any other further exercise of that right or remedy or the exercise of any other right or remedy. The rights and remedies provided in this Agreement are cumulative and not exclusive of any rights or remedies provided by law.
 
-37.3.	So far as permitted by law, and except in the case of fraud, the Client agrees and acknowledges that its only rights and remedies shall be for breach of the terms of this Agreement, to the exclusion of all other rights and remedies including those in tort or arising under statute.
+36.3.	So far as permitted by law, and except in the case of fraud, the Client agrees and acknowledges that its only rights and remedies shall be for breach of the terms of this Agreement, to the exclusion of all other rights and remedies including those in tort or arising under statute.
 
-## 38.	Illegality
+## 37.	Illegality
 The illegality, invalidity or unenforceability of any provision of this Agreement shall not affect the legality, validity or enforceability of this Agreement nor the legality, validity or enforceability of any other provision.
 
-## 39.	Amendment
+## 38.	Amendment
 This Agreement, including the Schedules, may not be amended without the prior written agreement of the Parties except that:
 
 - a)	the Manager may amend the Agreement in order to comply with, or to make the Agreement consistent with, any legal or regulatory requirements or changes to which the Manager may be subject by providing a written notice to the Client of such amendment;
@@ -542,29 +535,29 @@ This Agreement, including the Schedules, may not be amended without the prior wr
 
  Any amendment under sub-Clauses a), b) and c) shall take effect on the date specified in the written notice.
 
- ## 40.	Rights of third parties
+ ## 39.	Rights of third parties
 A person who is not a Party to this Agreement (other than a successor in title, permitted assignee or Indemnified Person) has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement but this does not affect any right or remedy of a third party which exists or is available apart from that Act.
 
-## 41.	Counterparts
+## 40.	Counterparts
 This Agreement may be executed in any number of counterparts, each of which is an original but all of which together constitute one and the same instrument.
 
-## 42.	[Governing law and jurisdiction
-42.1.	This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of England and Wales.
+## 41.	[Governing law and jurisdiction
+41.1.	This Agreement and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by and construed in accordance with the laws of England and Wales.
 
-42.2.	The Client irrevocably appoints the process agent (if any) specified in Schedule 5 to receive, for it and on its behalf, service of process of any Proceedings. Nothing in this Agreement will affect the right of the Manager to serve process in any other manner permitted by law.]
+41.2.	The Client irrevocably appoints the process agent (if any) specified in Schedule 5 to receive, for it and on its behalf, service of process of any Proceedings. Nothing in this Agreement will affect the right of the Manager to serve process in any other manner permitted by law.]
 
 [OR]  
 [Arbitration[^22]
 
-42.3 Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the QICA Rules, which Rules are deemed to be incorporated by reference into this Clause 42.
+41.3 Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration under the QICA Rules, which Rules are deemed to be incorporated by reference into this Clause 41.
 
-42.4.	The number of arbitrators shall be three.
+41.4.	The number of arbitrators shall be three.
 
-42.5.	The seat, or legal place, of arbitration shall be Québec.
+41.5.	The seat, or legal place, of arbitration shall be Québec.
 
-42.6.	The language to be used in the arbitral proceedings shall be English.
+41.6.	The language to be used in the arbitral proceedings shall be English.
 
-42.7.	The governing law of this Clause 42 shall be the substantive laws of England and Wales.]
+41.7.	The governing law of this Clause 41 shall be the substantive laws of England and Wales.]
 
 
 The Parties have executed this Agreement on the respective dates specified below with effect from the Effective Date.
@@ -587,7 +580,6 @@ Date:
 ---
 
 [^1]: For pension scheme Clients only. Amendment ensures that, where the Client is a pension scheme trustee, it enters into the Agreement in that capacity alone.
-[^5]: Delete if Clause 27 is not relevant.
 [^6]: For pension scheme Clients only. Pension scheme trustees are required to formally appoint entities managing scheme assets in accordance with the Pensions Act 1995, which requires trustees to be comfortable that the manager is appropriately qualified, experienced, etc.
 [^7]: Managers with a multi-manager strategy may need to consider whether this position is workable.
 [^8]: Note that, although notice to the Client is not required here, the Manager retains liability.
