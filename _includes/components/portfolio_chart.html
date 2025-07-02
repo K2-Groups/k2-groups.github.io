@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <title>نمودار بازده</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <canvas id="myChart" width="400" height="200"></canvas>
+  <script>
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: ['شروع', 'ماه ۱', 'ماه ۲', 'ماه ۳', 'ماه ۴', 'ماه ۵', 'الان'],
+        datasets: [
+          {
+            label: 'بازده صندوق',
+            data: [100, 150, 200, 300, 400, 600, 4877],
+            borderColor: 'gold',
+            fill: false,
+          },
+          {
+            label: 'بازده بورس',
+            data: [100, 140, 180, 250, 350, 500, 3977],
+            borderColor: 'teal',
+            fill: false,
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            labels: {
+              font: {
+                family: 'IRANSans', // در صورت نیاز به فونت فارسی
+              }
+            }
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
