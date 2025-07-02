@@ -1,4 +1,10 @@
+<h2>Monthly Fund Performance</h2>
+<p>This chart illustrates the monthly return of the fund and the portion of that return paid out to investors, alongside a horizontal line representing the average paid return over the period.</p>
 <canvas id="returnChart" width="600" height="300"></canvas>
+
+<h2>Cumulative Paid Return</h2>
+<p>This chart displays the cumulative paid return of the fund over time.</p>
+<canvas id="cumulativeChart" width="600" height="300"></canvas>
 
 <!-- Chart.js و PapaParse -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -49,6 +55,47 @@
               fill: false
             }
           ]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              ticks: {
+                callback: value => value + '%'
+              }
+            }
+          },
+          plugins: {
+            tooltip: {
+              callbacks: {
+                label: context => context.parsed.y + '%'
+              }
+            }
+          }
+        }
+      });
+
+      /* Cumulative Paid Return */
+      const cumulativePaid = [];
+      paidReturn.reduce((acc, val, idx) => {
+        const sum = acc + val;
+        cumulativePaid.push(sum);
+        return sum;
+      }, 0);
+
+      const ctx2 = document.getElementById('cumulativeChart').getContext('2d');
+      new Chart(ctx2, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Cumulative Paid Return (%)',
+            data: cumulativePaid,
+            borderColor: 'purple',
+            backgroundColor: 'rgba(128, 0, 128, 0.2)',
+            fill: true,
+            tension: 0.3
+          }]
         },
         options: {
           responsive: true,
