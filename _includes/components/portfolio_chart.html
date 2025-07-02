@@ -1,46 +1,67 @@
-<!DOCTYPE html>
-<html lang="fa">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>نمودار بازده</title>
+  <title>Fund Return Chart</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 <body>
-  <canvas id="myChart" width="400" height="200"></canvas>
+  <canvas id="returnChart" width="600" height="300"></canvas>
+
   <script>
-    const ctx = document.getElementById('myChart').getContext('2d');
-    const myChart = new Chart(ctx, {
-      type: 'line',
-      data: {
-        labels: ['شروع', 'ماه ۱', 'ماه ۲', 'ماه ۳', 'ماه ۴', 'ماه ۵', 'الان'],
-        datasets: [
-          {
-            label: 'بازده صندوق',
-            data: [100, 150, 200, 300, 400, 600, 4877],
-            borderColor: 'gold',
-            fill: false,
+    const csvPath = '/assets/portfolio-chart-data.csv';
+
+    fetch(csvPath)
+      .then(response => response.text())
+      .then(csvText => {
+        const parsed = Papa.parse(csvText, { header: true });
+        const labels = parsed.data.map(row => row.date);
+        const totalReturn = parsed.data.map(row => parseFloat(row.total_return));
+        const paidReturn = parsed.data.map(row => parseFloat(row.paid_return));
+
+        const ctx = document.getElementById('returnChart').getContext('2d');
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: labels,
+            datasets: [
+              {
+                label: 'Total Return (%)',
+                data: totalReturn,
+                borderColor: 'gold',
+                backgroundColor: 'rgba(255, 215, 0, 0.2)',
+                fill: false,
+                tension: 0.3
+              },
+              {
+                label: 'Paid Return (%)',
+                data: paidReturn,
+                borderColor: 'teal',
+                backgroundColor: 'rgba(0, 128, 128, 0.2)',
+                fill: false,
+                tension: 0.3
+              }
+            ]
           },
-          {
-            label: 'بازده بورس',
-            data: [100, 140, 180, 250, 350, 500, 3977],
-            borderColor: 'teal',
-            fill: false,
-          }
-        ]
-      },
-      options: {
-        responsive: true,
-        plugins: {
-          legend: {
-            labels: {
-              font: {
-                family: 'IRANSans',
+          options: {
+            responsive: true,
+            scales: {
+              y: {
+                ticks: {
+                  callback: value => value + '%'
+                }
+              }
+            },
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: context => context.parsed.y + '%'
+                }
               }
             }
           }
-        }
-      }
-    });
+        });
+      });
   </script>
 </body>
 </html>
