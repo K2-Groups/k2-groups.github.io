@@ -1,67 +1,71 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Fund Return Chart</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-</head>
-<body>
-  <canvas id="returnChart" width="600" height="300"></canvas>
+<canvas id="returnChart" width="600" height="300"></canvas>
 
-  <script>
-    const csvPath = '/assets/portfolio-chart-data.csv';
+<!-- Chart.js و PapaParse -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
-    fetch(csvPath)
-      .then(response => response.text())
-      .then(csvText => {
-        const parsed = Papa.parse(csvText, { header: true });
-        const labels = parsed.data.map(row => row.date);
-        const totalReturn = parsed.data.map(row => parseFloat(row.total_return));
-        const paidReturn = parsed.data.map(row => parseFloat(row.paid_return));
+<script>
+  const csvPath = '/assets/data.csv';
+  fetch(csvPath)
+    .then(response => response.text())
+    .then(csvText => {
+      const parsed = Papa.parse(csvText, { header: true });
+      const labels = parsed.data.map(row => row.date);
+      const totalReturn = parsed.data.map(row => parseFloat(row.total_return));
+      const paidReturn = parsed.data.map(row => parseFloat(row.paid_return));
+      const avgPaid = paidReturn.reduce((sum, val) => sum + val, 0) / paidReturn.length;
+      const avgLine = new Array(labels.length).fill(avgPaid);
 
-        const ctx = document.getElementById('returnChart').getContext('2d');
-        new Chart(ctx, {
-          type: 'line',
-          data: {
-            labels: labels,
-            datasets: [
-              {
-                label: 'Total Return (%)',
-                data: totalReturn,
-                borderColor: 'gold',
-                backgroundColor: 'rgba(255, 215, 0, 0.2)',
-                fill: false,
-                tension: 0.3
-              },
-              {
-                label: 'Paid Return (%)',
-                data: paidReturn,
-                borderColor: 'teal',
-                backgroundColor: 'rgba(0, 128, 128, 0.2)',
-                fill: false,
-                tension: 0.3
-              }
-            ]
-          },
-          options: {
-            responsive: true,
-            scales: {
-              y: {
-                ticks: {
-                  callback: value => value + '%'
-                }
-              }
+      const ctx = document.getElementById('returnChart').getContext('2d');
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: 'Total Return (%)',
+              data: totalReturn,
+              borderColor: 'gold',
+              backgroundColor: 'rgba(255, 215, 0, 0.2)',
+              fill: false,
+              tension: 0.3
             },
-            plugins: {
-              tooltip: {
-                callbacks: {
-                  label: context => context.parsed.y + '%'
-                }
+            {
+              label: 'Paid Return (%)',
+              data: paidReturn,
+              borderColor: 'teal',
+              backgroundColor: 'rgba(0, 128, 128, 0.2)',
+              fill: false,
+              tension: 0.3
+            },
+            {
+              label: `Average Paid Return (${avgPaid.toFixed(2)}%)`,
+              data: avgLine,
+              borderColor: 'gray',
+              borderDash: [5, 5],
+              borderWidth: 1.5,
+              pointRadius: 0,
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              ticks: {
+                callback: value => value + '%'
+              }
+            }
+          },
+          plugins: {
+            tooltip: {
+              callbacks: {
+                label: context => context.parsed.y + '%'
               }
             }
           }
-        });
+        }
       });
-  </script>
-</body>
-</html>
+    });
+</script>
