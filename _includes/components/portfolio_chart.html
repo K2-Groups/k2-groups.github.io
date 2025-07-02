@@ -10,6 +10,7 @@
     .then(response => response.text())
     .then(csvText => {
       const parsed = Papa.parse(csvText, { header: true });
+      parsed.data = parsed.data.filter(item => item.paid_return);
       const labels = parsed.data.map(row => row.date);
       const totalReturn = parsed.data.map(row => parseFloat(row.total_return));
       const paidReturn = parsed.data.map(row => parseFloat(row.paid_return));
