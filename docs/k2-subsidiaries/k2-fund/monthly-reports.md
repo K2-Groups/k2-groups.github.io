@@ -12,8 +12,4 @@ As part of our commitment to transparency and accountability, this section provi
 
 {% include components/portfolio_chart.html %}
 
----
-
-<pre id="output">Loading data...</pre>
-
-<script src="/assets/js/portfolio-parser.js"></script>
+For more information, please visit our main website: [fund.k2group.tech](https://fund.k2group.tech)
