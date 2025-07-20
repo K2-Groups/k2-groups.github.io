@@ -13,3 +13,9 @@ As part of our commitment to transparency and accountability, this section provi
 {% include components/portfolio_chart.html %}
 
 For more information, please visit our main website: [fund.k2group.tech](https://fund.k2group.tech)
+
+---
+
+<pre id="output">Loading data...</pre>
+
+<script src="/assets/js/portfolio-parser.js"></script>
